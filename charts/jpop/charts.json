@@ -1,0 +1,118 @@
+[
+  {
+    "link": "https://www.youtube.com/watch?v=5uaHMmcReI0",
+    "song": [
+      "うい麦畑でつかまえて",
+      "Catcher in the Ui"
+    ],
+    "artist": [
+      "しぐれうい & 七星市管弦楽団",
+      "Shigure Ui & SevenStar Orchestra"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 168,
+    "duration": "3m 44s",
+    "chart": {
+      "kantan": [ 3, 463 ],
+      "futsuu": [ 5, 684 ],
+      "muzukashii": [ 7, 768 ],
+      "oni": [ 9, 900 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=8iuLXODzL04",
+    "song": [
+      "たぶん",
+      "Probably"
+    ],
+    "artist": [
+      "YOASOBI"
+    ],
+    "source": [
+      "映画『たぶん』",
+      "Movie 『Probably』"
+    ],
+    "bpm": 90,
+    "duration": "4m 21s",
+    "chart": {
+      "kantan": [ 2, 448 ],
+      "futsuu": [ 4, 611 ],
+      "muzukashii": [ 7, 949 ],
+      "oni": [ 9, 1367 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
+    "song": [
+      "可愛くてごめん",
+      "Kawaikute Gomen"
+    ],
+    "artist": [
+      "HoneyWorks feat.ちゅーたん & かぴ",
+      "Honeyworks feat. Chuutan & Kapi"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 160,
+    "duration": "3m 38s",
+    "chart": {
+      "kantan": [ 1, 278 ],
+      "futsuu": [ 1, 429 ],
+      "muzukashii": [ 3, 446 ],
+      "oni": [ 3, 699 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Ci_zad39Uhw",
+    "song": [
+      "粛聖!! ロリ神レクイエム☆",
+      "Purification!! Loli-God Requiem☆"
+    ],
+    "artist": [
+      "しぐれうい（９さい）& IOSYS",
+      "Shigure Ui (9 years old) & IOSYS"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 165,
+    "duration": "4m 32s",
+    "chart": {
+      "kantan": [ 3, 468 ],
+      "futsuu": [ 6, 676 ],
+      "muzukashii": [ 8, 910 ],
+      "oni": [ 9, 1138 ],
+      "ura": [ 10, 1736 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=oZpYEEcvu5I",
+    "song": [
+      "晩餐歌",
+      "Bansanka"
+    ],
+    "artist": [
+      "tuki."
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 103,
+    "duration": "3m 37s",
+    "chart": {
+      "kantan": [ 3, 380 ],
+      "futsuu": [ 4, 445 ],
+      "muzukashii": [ 5, 448 ],
+      "oni": [ 8, 701 ],
+      "ura": [ 10, 1265 ]
+    },
+    "": true
+  }
+]
