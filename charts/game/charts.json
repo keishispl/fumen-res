@@ -1,0 +1,25 @@
+[
+  {
+    "link": "https://www.youtube.com/watch?v=F67oeSVgo5Y",
+    "song": [
+      "Don't Fight The Music"
+    ],
+    "artist": [
+      "黒魔",
+      "Chroma"
+    ],
+    "source": [
+      "オンゲキ",
+      "O.N.G.E.K.I."
+    ],
+    "bpm": "50 - 200",
+    "duration": "2m 39s",
+    "chart": {
+      "kantan": [ 6, 390 ],
+      "futsuu": [ 6, 436 ],
+      "muzukashii": [ 7, 631 ],
+      "oni": [ 9, 913 ]
+    },
+    "": true
+  }
+]
