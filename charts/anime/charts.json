@@ -1,0 +1,143 @@
+[
+  {
+    "link": "https://www.youtube.com/watch?v=qpi9YXaChHI",
+    "song": [
+      "Sign"
+    ],
+    "artist": [
+      "FLOW"
+    ],
+    "source": [
+      "NARUTO 疾風伝",
+      "Shippuden"
+    ],
+    "bpm": "148 - 178",
+    "duration": "3m 51s",
+    "chart": {
+      "kantan": [ 3, 434 ],
+      "futsuu": [ 4, 543 ],
+      "muzukashii": [ 4, 585 ],
+      "oni": [ 10, 1346 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=GQb3LxrQI4c",
+    "song": [
+      "サインはＢ -New Arrange Ver-",
+      "Sain wa B -New Arrange Ver-"
+    ],
+    "artist": [
+      "B小町",
+      "B-Komachi"
+    ],
+    "source": [
+      "推しの子",
+      "Oshi no Ko"
+    ],
+    "bpm": 170,
+    "duration": "3m 39s",
+    "chart": {
+      "kantan": [ 4, 391 ],
+      "futsuu": [ 6, 612 ],
+      "muzukashii": [ 8, 719 ],
+      "oni": [ 9, 865 ],
+      "ura": [ 10, 1000 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=ZZvIVRQ4E7I",
+    "song": [
+      "シカ色デイズ",
+      "Deer-Colored Days"
+    ],
+    "artist": [
+      "-"
+    ],
+    "source": [
+      "しかのこのこのここしたんたん",
+      "My Deer Friend Nokotan"
+    ],
+    "bpm": 183,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [ 3, 162 ],
+      "futsuu": [ 5, 234 ],
+      "muzukashii": [ 7, 326 ],
+      "oni": [ 8, 454 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=g_HHqi_dpwo",
+    "song": [
+      "ハッピーエンドプリンセス",
+      "Happy Ending Princess"
+    ],
+    "artist": [
+      "上坂すみれ",
+      "Sumire Uesaka"
+    ],
+    "source": [
+      "ティアムーン帝国物語",
+      "Tearmoon Empire"
+    ],
+    "bpm": 174,
+    "duration": "1m 30s",
+    "chart": {
+      "kantan": [ 2, 160 ],
+      "futsuu": [ 5, 269 ],
+      "muzukashii": [ 7, 293 ],
+      "oni": [ 10, 404 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=mUSVav9pKO4",
+    "song": [
+      "晴る",
+      "Sunny"
+    ],
+    "artist": [
+      "ヨルシカ",
+      "Yorushika"
+    ],
+    "source": [
+      "葬送のフリーレン",
+      "Frieren: Beyond Journey's End"
+    ],
+    "bpm": 204,
+    "duration": "4m 29s",
+    "chart": {
+      "kantan": [ 2, 370 ],
+      "futsuu": [ 3, 513 ],
+      "muzukashii": [ 5, 648 ],
+      "oni": [ 7, 686 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=YjrSkBjDVEw",
+    "song": [
+      "不可思議のカルテ",
+      "Fukashigi no Karute"
+    ],
+    "artist": [
+      "-"
+    ],
+    "source": [
+      "青春ブタ野郎はバニーガール先輩の夢を見ない",
+      "Rascal Does Not Dream of Bunny Girl Senpai"
+    ],
+    "bpm": 192,
+    "duration": "3m 55s",
+    "chart": {
+      "kantan": [ 2, 268 ],
+      "futsuu": [ 4, 353 ],
+      "muzukashii": [ 7, 655 ],
+      "oni": [ 9, 1171 ]
+    },
+    "": true
+  }
+]
