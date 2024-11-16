@@ -1,0 +1,192 @@
+[
+  {
+    "link": "https://www.youtube.com/watch?v=jWvuUeUyyKU",
+    "song": [
+      "ハートインワンダーランド",
+      "Heart in Wonderland"
+    ],
+    "artist": [
+      "森羅万象（Vo: あやぽんず＊・あよ）",
+      "Shinra-Bansho (Vo: Ayaponzu*, Ayo)"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 181,
+    "duration": "4m 08s",
+    "chart": {
+      "kantan": [ 3, 492 ],
+      "futsuu": [ 5, 792 ],
+      "muzukashii": [ 7, 940 ],
+      "oni": [ 8, 1164 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Kvj7lYLL96s",
+    "song": [
+      "はなまる！さいきょうハイパーチルノ",
+      "HANAMARU! Strongest Hyper Cirno"
+    ],
+    "artist": [
+      "IOSYS feat. チルノ（CV:ファイルーズあい）",
+      "IOSYS feat. Cirno (CV: Fairouz Ai)"
+    ],
+    "source": [
+      "東方紅魔郷　～",
+      "the Embodiment of Scarlet Devil"
+    ],
+    "bpm": 181,
+    "duration": "2m 18s",
+    "chart": {
+      "kantan": [ 2, 166 ],
+      "futsuu": [ 3, 306 ],
+      "muzukashii": [ 5, 483 ],
+      "oni": [ 10, 935 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=_VH91mivTUw",
+    "song": [
+      "悪戯センセーション",
+      "Mischievous Sensation"
+    ],
+    "artist": [
+      "森羅万象（Vo: あやぽんず＊・あよ）",
+      "Shinra-Bansho (Vo: Ayaponzu*, Ayo)"
+    ],
+    "source": [
+      "東方紅魔郷　～",
+      "the Embodiment of Scarlet Devil"
+    ],
+    "bpm": 192,
+    "duration": "4m 24s",
+    "chart": {
+      "kantan": [ 3, 591 ],
+      "futsuu": [ 5, 700 ],
+      "muzukashii": [ 6, 973 ],
+      "oni": [ 9, 1277 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=9tNv318O7o8",
+    "song": [
+      "月まで届け、不死の煙",
+      "Reach for the Moon, Immortal Smoke"
+    ],
+    "artist": [
+      "上海アリス幻樂団（ZUN）",
+      "Team Shanghai Alice (ZUN)"
+    ],
+    "source": [
+      "東方永夜抄　～",
+      "Imperishable Night"
+    ],
+    "bpm": "153 - 164",
+    "duration": "2m 51s",
+    "chart": {
+      "kantan": [ 3, 313 ],
+      "futsuu": [ 4, 361 ],
+      "muzukashii": [ 7, 541 ],
+      "oni": [ 10, 843 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=sxcvxv5COOI",
+    "song": [
+      "孤独月",
+      "Solitary Moon"
+    ],
+    "artist": [
+      "幽閉サテライト（Vo: senya）",
+      "Yuuhei Satellite (Vo: senya)"
+    ],
+    "source": [
+      "東方紅魔郷　～",
+      "the Embodiment of Scarlet Devil"
+    ],
+    "bpm": 122,
+    "duration": "3m 52s",
+    "chart": {
+      "kantan": [ 2, 172 ],
+      "futsuu": [ 3, 314 ],
+      "muzukashii": [ 5, 504 ],
+      "oni": [ 8, 670 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=qeW1ROcrFuQ",
+    "song": [
+      "紅星ミゼラブル～廃憶編",
+      "Miserable Red Star ~ Abandoned Memories"
+    ],
+    "artist": [
+      "東京アクティブNEETs",
+      "Tokyo Active NEETs"
+    ],
+    "source": [
+      "東方紅魔郷　～",
+      "the Embodiment of Scarlet Devil"
+    ],
+    "bpm": 160,
+    "duration": "4m 56s",
+    "chart": {
+      "kantan": [ 2, 532 ],
+      "futsuu": [ 4, 648 ],
+      "muzukashii": [ 6, 883 ],
+      "oni": [ 10, 1551 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=wjHZYZWNyDE",
+    "song": [
+      "紅楼　～　Eastern Dream..."
+    ],
+    "artist": [
+      "上海アリス幻樂団（ZUN）",
+      "Team Shanghai Alice (ZUN)"
+    ],
+    "source": [
+      "東方紅魔郷　～",
+      "the Embodiment of Scarlet Devil"
+    ],
+    "bpm": 130,
+    "duration": "3m 29s",
+    "chart": {
+      "kantan": [ 3, 284 ],
+      "futsuu": [ 5, 397 ],
+      "muzukashii": [ 8, 734 ],
+      "oni": [ 10, 1070 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=zOmbs-UMwx0",
+    "song": [
+      "有頂天ドリーマーズ",
+      "Ecstatic Dreamers"
+    ],
+    "artist": [
+      "森羅万象（Vo: あやぽんず＊）",
+      "Shinra-Bansho (Vo: Ayaponzu*)"
+    ],
+    "source": [
+      "東方緋想天　～",
+      "Scarlet Weather Rhapsody"
+    ],
+    "bpm": 188,
+    "duration": "4m 13s",
+    "chart": {
+      "futsuu": [ 4, 530 ],
+      "muzukashii": [ 6, 707 ],
+      "oni": [ 10, 1409 ],
+      "ura": [ 10, 2103 ]
+    },
+    "": true
+  }
+]
