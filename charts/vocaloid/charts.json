@@ -1,0 +1,71 @@
+[
+  {
+    "link": "https://www.youtube.com/watch?v=2b1IexhKPz4",
+    "song": [
+      "きゅうくらりん",
+      "Kyuukurarin"
+    ],
+    "artist": [
+      "いよわ feat. 可不",
+      "Iyowa feat. Kafu"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": "220 - 225",
+    "duration": "3m 32s",
+    "chart": {
+      "kantan": [ 4, 575 ],
+      "futsuu": [ 5, 750 ],
+      "muzukashii": [ 8, 1106 ],
+      "oni": [ 10, 1832 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=FkO8ub83wss",
+    "song": [
+      "バグ",
+      "Bug"
+    ],
+    "artist": [
+      "かいりきベア",
+      "Kairiki Bear"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 186,
+    "duration": "2m 49s",
+    "chart": {
+      "futsuu": [ 4, 396 ],
+      "muzukashii": [ 7, 552 ],
+      "oni": [ 9, 812 ],
+      "ura": [ 10, 1000 ]
+    },
+    "": true
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=19y8YTbvri8",
+    "song": [
+      "メズマライザー",
+      "Mesmerizer"
+    ],
+    "artist": [
+      "サツキ feat. 初音ミク・重音テト",
+      "Satsuki feat. Hatsune Miku, Kasane Teto"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 185,
+    "duration": "2m 27s",
+    "chart": {
+      "kantan": [ 6, 212 ],
+      "futsuu": [ 5, 376 ],
+      "muzukashii": [ 7, 649 ],
+      "oni": [ 10, 947 ]
+    },
+    "": true
+  }
+]
