@@ -20,7 +20,7 @@
       "muzukashii": [ 7, 768 ],
       "oni": [ 9, 900 ]
     },
-    "": true
+    "": "1nBS_OkIHJ2gfBhy55htl3MKv8PpKzFDq"
   },
   {
     "link": "https://www.youtube.com/watch?v=8iuLXODzL04",
@@ -43,7 +43,7 @@
       "muzukashii": [ 7, 949 ],
       "oni": [ 9, 1367 ]
     },
-    "": true
+    "": "1dtZiyAfwQWpVuVymCXlkhgWkU1QEdzkR"
   },
   {
     "link": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
@@ -66,7 +66,30 @@
       "muzukashii": [ 3, 446 ],
       "oni": [ 3, 699 ]
     },
-    "": true
+    "": "1se1qkfxkCs0oUULuR3DWWOz1Dz_6AZWq"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=oZpYEEcvu5I",
+    "song": [
+      "晩餐歌",
+      "Bansanka"
+    ],
+    "artist": [
+      "tuki."
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 103,
+    "duration": "3m 37s",
+    "chart": {
+      "kantan": [ 3, 380 ],
+      "futsuu": [ 4, 445 ],
+      "muzukashii": [ 5, 448 ],
+      "oni": [ 8, 701 ],
+      "ura": [ 10, 1265 ]
+    },
+    "": "17vO8P3waBmcNf2YwfTqEOj8_bTxQJypq"
   },
   {
     "link": "https://www.youtube.com/watch?v=Ci_zad39Uhw",
@@ -90,29 +113,6 @@
       "oni": [ 9, 1138 ],
       "ura": [ 10, 1736 ]
     },
-    "": true
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=oZpYEEcvu5I",
-    "song": [
-      "晩餐歌",
-      "Bansanka"
-    ],
-    "artist": [
-      "tuki."
-    ],
-    "source": [
-      "-"
-    ],
-    "bpm": 103,
-    "duration": "3m 37s",
-    "chart": {
-      "kantan": [ 3, 380 ],
-      "futsuu": [ 4, 445 ],
-      "muzukashii": [ 5, 448 ],
-      "oni": [ 8, 701 ],
-      "ura": [ 10, 1265 ]
-    },
-    "": true
+    "": "1MRP-Isf8iK6-8xOvd-uHLSItb-VhQmwY"
   }
 ]
