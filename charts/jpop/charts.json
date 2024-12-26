@@ -61,10 +61,10 @@
     "bpm": 160,
     "duration": "3m 38s",
     "chart": {
-      "kantan": [ 1, 278 ],
-      "futsuu": [ 1, 429 ],
-      "muzukashii": [ 3, 446 ],
-      "oni": [ 3, 699 ]
+      "kantan": [ 1, 618 ],
+      "futsuu": [ 3, 847 ],
+      "muzukashii": [ 5, 923 ],
+      "oni": [ 8, 1192 ]
     },
     "": "1se1qkfxkCs0oUULuR3DWWOz1Dz_6AZWq"
   },
@@ -110,8 +110,8 @@
       "kantan": [ 3, 468 ],
       "futsuu": [ 6, 676 ],
       "muzukashii": [ 8, 910 ],
-      "oni": [ 9, 1138 ],
-      "ura": [ 10, 1736 ]
+      "oni": [ 9, 1143 ],
+      "ura": [ 10, 1765 ]
     },
     "": "1MRP-Isf8iK6-8xOvd-uHLSItb-VhQmwY"
   }
