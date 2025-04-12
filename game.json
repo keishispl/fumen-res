@@ -1,16 +1,15 @@
 [
   {
-    "link": "https://www.youtube.com/watch?v=M6DyhuxoNw8",
+    "link": "M6DyhuxoNw8",
     "song": [
       "\"HELLO!!\""
     ],
     "artist": [
       "日高愛・水谷絵理・秋月涼",
-      "Ai Hidaka, Eri Mizutani, Ryo Akizuki"
+      "(戸松遥・花澤香菜・三瓶由布子)"
     ],
     "source": [
-      "アイドルマスター",
-      "THE IDOLM@ASTER"
+      "アイドルマスター"
     ],
     "bpm": 173,
     "duration": "2m 03s",
@@ -23,25 +22,23 @@
     "": "1AOMULhEggqXkI582N-1DJDEbhp55f_WE"
   },
   {
-    "link": "https://www.youtube.com/watch?v=F67oeSVgo5Y",
+    "link": "F67oeSVgo5Y",
     "song": [
       "Don't Fight The Music"
     ],
     "artist": [
-      "黒魔",
-      "Chroma"
+      "黒魔"
     ],
     "source": [
-      "オンゲキ",
-      "O.N.G.E.K.I."
+      "オンゲキ"
     ],
     "bpm": "50 - 200",
     "duration": "2m 39s",
     "chart": {
-      "kantan": [ 6, 390 ],
-      "futsuu": [ 6, 436 ],
-      "muzukashii": [ 7, 631 ],
-      "oni": [ 9, 913 ]
+      "kantan": [ 3, 350 ],
+      "futsuu": [ 5, 530 ],
+      "muzukashii": [ 8, 639 ],
+      "oni": [ 10, 1116 ]
     },
     "": "1mwzdOG9FBVR5saunSlHEPboz-HKXLZXo"
   }
