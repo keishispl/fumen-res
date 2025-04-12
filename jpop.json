@@ -23,12 +23,10 @@
   {
     "link": "5uaHMmcReI0",
     "song": [
-      "うい麦畑でつかまえて",
-      "Catcher in the Ui"
+      "うい麦畑でつかまえて"
     ],
     "artist": [
-      "しぐれうい & 七星市管弦楽団",
-      "Shigure Ui & SevenStar Orchestra"
+      "しぐれうい　／　七星市管弦楽団"
     ],
     "source": [
       "-"
@@ -46,15 +44,13 @@
   {
     "link": "8iuLXODzL04",
     "song": [
-      "たぶん",
-      "Probably"
+      "たぶん"
     ],
     "artist": [
       "YOASOBI"
     ],
     "source": [
-      "映画『たぶん』",
-      "Movie 『Probably』"
+      "映画『たぶん』"
     ],
     "bpm": 90,
     "duration": "4m 21s",
@@ -69,31 +65,29 @@
   {
     "link": "K4xLi8IF1FM",
     "song": [
-      "可愛くてごめん",
-      "Kawaikute Gomen"
+      "可愛くてごめん"
     ],
     "artist": [
-      "HoneyWorks feat.ちゅーたん & かぴ",
-      "Honeyworks feat. Chuutan & Kapi"
+      "HoneyWorks feat.",
+      "ちゅーたん (CV: 早見沙織)"
     ],
     "source": [
       "-"
     ],
     "bpm": 160,
-    "duration": "3m 35s",
+    "duration": "1m 15s",
     "chart": {
-      "kantan": [ 1, 618 ],
-      "futsuu": [ 3, 847 ],
-      "muzukashii": [ 5, 923 ],
-      "oni": [ 8, 1192 ]
+      "kantan": [ 1, 128 ],
+      "futsuu": [ 3, 209 ],
+      "muzukashii": [ 6, 290 ],
+      "oni": [ 7, 335 ]
     },
     "": "1se1qkfxkCs0oUULuR3DWWOz1Dz_6AZWq"
   },
   {
     "link": "oZpYEEcvu5I",
     "song": [
-      "晩餐歌",
-      "Bansanka"
+      "晩餐歌"
     ],
     "artist": [
       "tuki."
@@ -115,24 +109,21 @@
   {
     "link": "Ci_zad39Uhw",
     "song": [
-      "粛聖!! ロリ神レクイエム☆",
-      "Purification!! Loli-God Requiem☆"
+      "粛聖!! ロリ神レクイエム☆"
     ],
     "artist": [
-      "しぐれうい（９さい）& IOSYS",
-      "Shigure Ui (9 years old) & IOSYS"
+      "しぐれうい（９さい）"
     ],
     "source": [
       "-"
     ],
     "bpm": 165,
-    "duration": "4m 32s",
+    "duration": "1m 58s",
     "chart": {
-      "kantan": [ 3, 468 ],
-      "futsuu": [ 6, 676 ],
-      "muzukashii": [ 8, 910 ],
-      "oni": [ 9, 1143 ],
-      "ura": [ 10, 1765 ]
+      "kantan": [ 3, 133 ],
+      "futsuu": [ 5, 194 ],
+      "muzukashii": [ 5, 280 ],
+      "oni": [ 8, 482 ]
     },
     "": "1MRP-Isf8iK6-8xOvd-uHLSItb-VhQmwY"
   }
