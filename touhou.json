@@ -1,36 +1,33 @@
 [
   {
-    "link": "https://www.youtube.com/watch?v=jWvuUeUyyKU",
+    "link": "jWvuUeUyyKU",
     "song": [
-      "ハートインワンダーランド",
-      "Heart in Wonderland"
+      "ハートインワンダーランド"
     ],
     "artist": [
-      "森羅万象（Vo: あやぽんず＊・あよ）",
-      "Shinra-Bansho (Vo: Ayaponzu*, Ayo)"
+      "森羅万象（Vo: あやぽんず＊・あよ）"
     ],
     "source": [
-      "-"
+      "東方地霊殿　～",
+      "Subterranean Animism"
     ],
-    "bpm": 181,
-    "duration": "4m 08s",
+    "bpm": "172 - 181",
+    "duration": "1m 58s",
     "chart": {
-      "kantan": [ 3, 492 ],
-      "futsuu": [ 5, 792 ],
-      "muzukashii": [ 7, 940 ],
-      "oni": [ 8, 1164 ]
+      "kantan": [ 4, 303 ],
+      "futsuu": [ 5, 404 ],
+      "muzukashii": [ 7, 505 ],
+      "oni": [ 10, 707 ]
     },
     "": "18UaKhwPGxNCVHJ-xgi3xKaYlEDvTHFwM"
   },
   {
-    "link": "https://www.youtube.com/watch?v=Kvj7lYLL96s",
+    "link": "Kvj7lYLL96s",
     "song": [
-      "はなまる！さいきょうハイパーチルノ",
-      "HANAMARU! Strongest Hyper Cirno"
+      "はなまる！さいきょうハイパーチルノ"
     ],
     "artist": [
-      "IOSYS feat. チルノ（CV:ファイルーズあい）",
-      "IOSYS feat. Cirno (CV: Fairouz Ai)"
+      "IOSYS feat.チルノ (CV: ファイルーズあい)"
     ],
     "source": [
       "東方紅魔郷　～",
@@ -39,46 +36,42 @@
     "bpm": 181,
     "duration": "2m 18s",
     "chart": {
-      "kantan": [ 2, 166 ],
-      "futsuu": [ 3, 306 ],
-      "muzukashii": [ 5, 483 ],
-      "oni": [ 10, 935 ]
+      "kantan": [ 4, 418 ],
+      "futsuu": [ 5, 585 ],
+      "muzukashii": [ 8, 747 ],
+      "oni": [ 10, 947 ]
     },
     "": "15GLGOr3ePI3pMXp-XaXSIAV8PaUo7t-J"
   },
   {
-    "link": "https://www.youtube.com/watch?v=_VH91mivTUw",
+    "link": "_VH91mivTUw",
     "song": [
-      "悪戯センセーション",
-      "Mischievous Sensation"
+      "悪戯センセーション"
     ],
     "artist": [
-      "森羅万象（Vo: あやぽんず＊・あよ）",
-      "Shinra-Bansho (Vo: Ayaponzu*, Ayo)"
+      "森羅万象（Vo: あやぽんず＊・あよ）"
     ],
     "source": [
       "東方紅魔郷　～",
       "the Embodiment of Scarlet Devil"
     ],
     "bpm": 192,
-    "duration": "4m 24s",
+    "duration": "1m 56s",
     "chart": {
-      "kantan": [ 3, 591 ],
-      "futsuu": [ 5, 700 ],
-      "muzukashii": [ 6, 973 ],
-      "oni": [ 9, 1277 ]
+      "kantan": [ 4, 349 ],
+      "futsuu": [ 6, 445 ],
+      "muzukashii": [ 8, 540 ],
+      "oni": [ 10, 791 ]
     },
     "": "1vo956LaChd5YN588vXVuVHQjwP7qQ8j5"
   },
   {
-    "link": "https://www.youtube.com/watch?v=9tNv318O7o8",
+    "link": "9tNv318O7o8",
     "song": [
-      "月まで届け、不死の煙",
-      "Reach for the Moon, Immortal Smoke"
+      "月まで届け、不死の煙"
     ],
     "artist": [
-      "上海アリス幻樂団（ZUN）",
-      "Team Shanghai Alice (ZUN)"
+      "上海アリス幻樂団"
     ],
     "source": [
       "東方永夜抄　～",
@@ -95,37 +88,34 @@
     "": "1PZti-K1FV9pXNS3zhaSEqvU02fOfzUfE"
   },
   {
-    "link": "https://www.youtube.com/watch?v=sxcvxv5COOI",
+    "link": "sxcvxv5COOI",
     "song": [
-      "孤独月",
-      "Solitary Moon"
+      "孤独月"
     ],
     "artist": [
-      "幽閉サテライト（Vo: senya）",
-      "Yuuhei Satellite (Vo: senya)"
+      "幽閉サテライト（Vo: senya）"
     ],
     "source": [
       "東方紅魔郷　～",
       "the Embodiment of Scarlet Devil"
     ],
     "bpm": 122,
-    "duration": "3m 52s",
+    "duration": "2m",
     "chart": {
-      "kantan": [ 2, 172 ],
-      "futsuu": [ 3, 314 ],
-      "muzukashii": [ 5, 504 ],
-      "oni": [ 8, 670 ]
+      "kantan": [ 2, 153 ],
+      "futsuu": [ 3, 276 ],
+      "muzukashii": [ 5, 335 ],
+      "oni": [ 7, 384 ]
     },
     "": "1Xk6jR1ud0gnFBwpQulhK9eI6--0gQdJu"
   },
   {
-    "link": "https://www.youtube.com/watch?v=qeW1ROcrFuQ",
+    "link": "qeW1ROcrFuQ",
     "song": [
       "紅星ミゼラブル～廃憶編"
     ],
     "artist": [
-      "東京アクティブNEETs",
-      "Tokyo Active NEETs"
+      "東京アクティブNEETs"
     ],
     "source": [
       "東方紅魔郷　～",
@@ -142,13 +132,12 @@
     "": "1n1VT9R-AsjcWcYTRFEjPTo-5xxfr7wbh"
   },
   {
-    "link": "https://www.youtube.com/watch?v=wjHZYZWNyDE",
+    "link": "wjHZYZWNyDE",
     "song": [
       "紅楼　～　Eastern Dream..."
     ],
     "artist": [
-      "上海アリス幻樂団（ZUN）",
-      "Team Shanghai Alice (ZUN)"
+      "上海アリス幻樂団"
     ],
     "source": [
       "東方紅魔郷　～",
@@ -165,26 +154,24 @@
     "": "1lOgrgvYlmYXmchL9G7A5jjJsvM4wURhH"
   },
   {
-    "link": "https://www.youtube.com/watch?v=zOmbs-UMwx0",
+    "link": "zOmbs-UMwx0",
     "song": [
-      "有頂天ドリーマーズ",
-      "Ecstatic Dreamers"
+      "有頂天ドリーマーズ"
     ],
     "artist": [
-      "森羅万象（Vo: あやぽんず＊）",
-      "Shinra-Bansho (Vo: Ayaponzu*)"
+      "森羅万象（Vo: あやぽんず＊）"
     ],
     "source": [
       "東方緋想天　～",
       "Scarlet Weather Rhapsody"
     ],
     "bpm": 188,
-    "duration": "4m 13s",
+    "duration": "2m 1s",
     "chart": {
-      "futsuu": [ 4, 530 ],
-      "muzukashii": [ 6, 707 ],
-      "oni": [ 10, 1409 ],
-      "ura": [ 10, 2103 ]
+      "futsuu": [ 4, 321 ],
+      "muzukashii": [ 5, 363 ],
+      "oni": [ 7, 403 ],
+      "ura": [ 10, 640 ]
     },
     "": "1AG1gPOBmp79NfLO6WkXS4qcqodCLXsKv"
   }
