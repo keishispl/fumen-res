@@ -1,6 +1,6 @@
 [
   {
-    "link": "https://www.youtube.com/watch?v=qpi9YXaChHI",
+    "link": "qpi9YXaChHI",
     "song": [
       "Sign"
     ],
@@ -8,8 +8,7 @@
       "FLOW"
     ],
     "source": [
-      "NARUTO 疾風伝",
-      "Shippuden"
+      "NARUTO 疾風伝"
     ],
     "bpm": "148 - 178",
     "duration": "3m 51s",
@@ -22,42 +21,36 @@
     "": "1Nn3Qvpk7fhlV8Sb19DUNmHeu1BM9v89o"
   },
   {
-    "link": "https://www.youtube.com/watch?v=GQb3LxrQI4c",
+    "link": "GQb3LxrQI4c",
     "song": [
-      "サインはＢ -New Arrange Ver-",
-      "Sain wa B -New Arrange Ver-"
+      "サインはＢ -New Arrange ver-"
     ],
     "artist": [
-      "B小町",
-      "B-Komachi"
+      "B小町"
     ],
     "source": [
-      "推しの子",
-      "Oshi no Ko"
+      "推しの子"
     ],
     "bpm": 170,
-    "duration": "3m 39s",
+    "duration": "1m 31s",
     "chart": {
-      "kantan": [ 4, 391 ],
-      "futsuu": [ 6, 612 ],
-      "muzukashii": [ 8, 719 ],
-      "oni": [ 9, 865 ],
-      "ura": [ 10, 1000 ]
+      "kantan": [ 2, 178 ],
+      "futsuu": [ 4, 347 ],
+      "muzukashii": [ 7, 409 ],
+      "oni": [ 10, 555 ]
     },
     "": "12xOquVuI2g_-UFnb5SZ83AloKZ8j8r1N"
   },
   {
-    "link": "https://www.youtube.com/watch?v=ZZvIVRQ4E7I",
+    "link": "ZZvIVRQ4E7I",
     "song": [
-      "シカ色デイズ",
-      "Deer-Colored Days"
+      "シカ色デイズ"
     ],
     "artist": [
       "-"
     ],
     "source": [
-      "しかのこのこのここしたんたん",
-      "My Deer Friend Nokotan"
+      "しかのこのこのここしたんたん"
     ],
     "bpm": 183,
     "duration": "1m 29s",
@@ -70,18 +63,15 @@
     "": "1jPfYTF6dRTfZCq71i3hjjR35Ztuu_IqR"
   },
   {
-    "link": "https://www.youtube.com/watch?v=g_HHqi_dpwo",
+    "link": "g_HHqi_dpwo",
     "song": [
-      "ハッピーエンドプリンセス",
-      "Happy Ending Princess"
+      "ハッピーエンドプリンセス"
     ],
     "artist": [
-      "上坂すみれ",
-      "Sumire Uesaka"
+      "上坂すみれ"
     ],
     "source": [
-      "ティアムーン帝国物語",
-      "Tearmoon Empire"
+      "ティアムーン帝国物語"
     ],
     "bpm": 174,
     "duration": "1m 30s",
@@ -94,18 +84,15 @@
     "": "1rcHue4M6YfwUlUUDPyoiH6ckpWbmSOrW"
   },
   {
-    "link": "https://www.youtube.com/watch?v=mUSVav9pKO4",
+    "link": "mUSVav9pKO4",
     "song": [
-      "晴る",
-      "Sunny"
+      "晴る"
     ],
     "artist": [
-      "ヨルシカ",
-      "Yorushika"
+      "ヨルシカ"
     ],
     "source": [
-      "葬送のフリーレン",
-      "Frieren: Beyond Journey's End"
+      "葬送のフリーレン"
     ],
     "bpm": 204,
     "duration": "4m 29s",
@@ -118,19 +105,16 @@
     "": "1ZdTaZNFIHlFtXSSyh8MFwOKU5A1yfrd8"
   },
   {
-    "link": "https://www.youtube.com/watch?v=YjrSkBjDVEw",
+    "link": "YjrSkBjDVEw",
     "song": [
-      "不可思議のカルテ",
-      "Fukashigi no Karute"
+      "不可思議のカルテ"
     ],
     "artist": [
       "-"
     ],
     "source": [
       "青春ブタ野郎は",
-      "バニーガール先輩の夢を見ない",
-      "Rascal Does Not Dream of",
-      "Bunny Girl Senpai"
+      "バニーガール先輩の夢を見ない"
     ],
     "bpm": 192,
     "duration": "3m 55s",
