@@ -168,10 +168,10 @@
     "bpm": 188,
     "duration": "2m 1s",
     "chart": {
-      "futsuu": [ 4, 321 ],
-      "muzukashii": [ 5, 363 ],
-      "oni": [ 7, 403 ],
-      "ura": [ 10, 640 ]
+      "kantan": [ 4, 321 ],
+      "futsuu": [ 5, 363 ],
+      "muzukashii": [ 7, 403 ],
+      "oni": [ 10, 640 ]
     },
     "": "1AG1gPOBmp79NfLO6WkXS4qcqodCLXsKv"
   }
