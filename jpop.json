@@ -1,6 +1,27 @@
 [
   {
-    "link": "https://www.youtube.com/watch?v=5uaHMmcReI0",
+    "link": "BerwUFzdj4U",
+    "song": [
+      "flower rhapsody"
+    ],
+    "artist": [
+      "さくらみこ　／　堀江晶太(kemu)"
+    ],
+    "source": [
+      "-"
+    ],
+    "bpm": 180,
+    "duration": "4m 3s",
+    "chart": {
+      "kantan": [ 3, 506 ],
+      "futsuu": [ 5, 656 ],
+      "muzukashii": [ 8, 803 ],
+      "oni": [ 10, 1139 ]
+    },
+    "": "1jm0jHfCTQ6rnhTXD5QOp0J3oMuM4HKD5"
+  },
+  {
+    "link": "5uaHMmcReI0",
     "song": [
       "うい麦畑でつかまえて",
       "Catcher in the Ui"
@@ -23,7 +44,7 @@
     "": "1nBS_OkIHJ2gfBhy55htl3MKv8PpKzFDq"
   },
   {
-    "link": "https://www.youtube.com/watch?v=8iuLXODzL04",
+    "link": "8iuLXODzL04",
     "song": [
       "たぶん",
       "Probably"
@@ -46,7 +67,7 @@
     "": "1dtZiyAfwQWpVuVymCXlkhgWkU1QEdzkR"
   },
   {
-    "link": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
+    "link": "K4xLi8IF1FM",
     "song": [
       "可愛くてごめん",
       "Kawaikute Gomen"
@@ -69,7 +90,7 @@
     "": "1se1qkfxkCs0oUULuR3DWWOz1Dz_6AZWq"
   },
   {
-    "link": "https://www.youtube.com/watch?v=oZpYEEcvu5I",
+    "link": "oZpYEEcvu5I",
     "song": [
       "晩餐歌",
       "Bansanka"
@@ -92,7 +113,7 @@
     "": "17vO8P3waBmcNf2YwfTqEOj8_bTxQJypq"
   },
   {
-    "link": "https://www.youtube.com/watch?v=Ci_zad39Uhw",
+    "link": "Ci_zad39Uhw",
     "song": [
       "粛聖!! ロリ神レクイエム☆",
       "Purification!! Loli-God Requiem☆"
