@@ -4,9 +4,14 @@
     "song": [
       "Sign"
     ],
-    "artist": [
-      "FLOW"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "FLOW"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "NARUTO 疾風伝"
     ],
@@ -29,9 +34,14 @@
     "song": [
       "サインはＢ -New Arrange ver-"
     ],
-    "artist": [
-      "B小町"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "B小町"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "推しの子"
     ],
@@ -54,9 +64,10 @@
     "song": [
       "シカ色デイズ"
     ],
-    "artist": [
-      "-"
-    ],
+    "artist": {
+      "main": [],
+      "vocal": []
+    },
     "source": [
       "しかのこのこのここしたんたん"
     ],
@@ -79,9 +90,14 @@
     "song": [
       "ハッピーエンドプリンセス"
     ],
-    "artist": [
-      "上坂すみれ"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "上坂すみれ"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "ティアムーン帝国物語"
     ],
@@ -104,9 +120,14 @@
     "song": [
       "晴る"
     ],
-    "artist": [
-      "ヨルシカ"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "ヨルシカ"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "葬送のフリーレン"
     ],
@@ -129,9 +150,10 @@
     "song": [
       "不可思議のカルテ"
     ],
-    "artist": [
-      "-"
-    ],
+    "artist": {
+      "main": [],
+      "vocal": []
+    },
     "source": [
       "青春ブタ野郎は",
       "バニーガール先輩の夢を見ない"
