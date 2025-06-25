@@ -4,9 +4,17 @@
     "song": [
       "ハートインワンダーランド"
     ],
-    "artist": [
-      "森羅万象（Vo: あやぽんず＊・あよ）"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "森羅万象"
+        }
+      ],
+      "vocal": [
+        "あやぽんず＊",
+        "あよ"
+      ]
+    },
     "source": [
       "東方地霊殿　～",
       "Subterranean Animism"
@@ -30,9 +38,16 @@
     "song": [
       "はなまる！さいきょうハイパーチルノ"
     ],
-    "artist": [
-      "IOSYS feat.チルノ (CV: ファイルーズあい)"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "IOSYS"
+        }
+      ],
+      "vocal": [
+        "チルノ (CV: ファイルーズあい)"
+      ]
+    },
     "source": [
       "東方紅魔郷　～",
       "the Embodiment of Scarlet Devil"
@@ -56,9 +71,17 @@
     "song": [
       "悪戯センセーション"
     ],
-    "artist": [
-      "森羅万象（Vo: あやぽんず＊・あよ）"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "森羅万象"
+        }
+      ],
+      "vocal": [
+        "あやぽんず＊",
+        "あよ"
+      ]
+    },
     "source": [
       "東方紅魔郷　～",
       "the Embodiment of Scarlet Devil"
@@ -82,9 +105,14 @@
     "song": [
       "月まで届け、不死の煙"
     ],
-    "artist": [
-      "上海アリス幻樂団"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "上海アリス幻樂団"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "東方永夜抄　～",
       "Imperishable Night"
@@ -108,9 +136,16 @@
     "song": [
       "孤独月"
     ],
-    "artist": [
-      "幽閉サテライト（Vo: senya）"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "幽閉サテライト"
+        }
+      ],
+      "vocal": [
+        "senya"
+      ]
+    },
     "source": [
       "東方紅魔郷　～",
       "the Embodiment of Scarlet Devil"
@@ -134,9 +169,14 @@
     "song": [
       "紅星ミゼラブル～廃憶編"
     ],
-    "artist": [
-      "東京アクティブNEETs"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "東京アクティブNEETs"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "東方紅魔郷　～",
       "the Embodiment of Scarlet Devil"
@@ -160,9 +200,14 @@
     "song": [
       "紅楼　～　Eastern Dream..."
     ],
-    "artist": [
-      "上海アリス幻樂団"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "上海アリス幻樂団"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "東方紅魔郷　～",
       "the Embodiment of Scarlet Devil"
@@ -186,9 +231,16 @@
     "song": [
       "有頂天ドリーマーズ"
     ],
-    "artist": [
-      "森羅万象（Vo: あやぽんず＊）"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "森羅万象"
+        }
+      ],
+      "vocal": [
+        "あやぽんず＊"
+      ]
+    },
     "source": [
       "東方緋想天　～",
       "Scarlet Weather Rhapsody"
