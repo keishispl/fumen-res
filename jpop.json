@@ -4,9 +4,14 @@
     "song": [
       "flower rhapsody"
     ],
-    "artist": [
-      "さくらみこ　／　堀江晶太(kemu)"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "さくらみこ"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "-"
     ],
@@ -29,9 +34,14 @@
     "song": [
       "うい麦畑でつかまえて"
     ],
-    "artist": [
-      "しぐれうい　／　七星市管弦楽団"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "しぐれうい"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "-"
     ],
@@ -54,9 +64,14 @@
     "song": [
       "たぶん"
     ],
-    "artist": [
-      "YOASOBI"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "YOASOBI"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "映画『たぶん』"
     ],
@@ -79,10 +94,16 @@
     "song": [
       "可愛くてごめん"
     ],
-    "artist": [
-      "HoneyWorks feat.",
-      "ちゅーたん (CV: 早見沙織)"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "HoneyWorks"
+        }
+      ],
+      "vocal": [
+        "ちゅーたん (CV: 早見沙織)"
+      ]
+    },
     "source": [
       "-"
     ],
@@ -105,9 +126,14 @@
     "song": [
       "晩餐歌"
     ],
-    "artist": [
-      "tuki."
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "tuki."
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "-"
     ],
@@ -131,9 +157,15 @@
     "song": [
       "粛聖!! ロリ神レクイエム☆"
     ],
-    "artist": [
-      "しぐれうい（９さい）"
-    ],
+    "artist": {
+      "main": [
+        {
+          "name": "しぐれうい",
+          "alt": "（９さい）"
+        }
+      ],
+      "vocal": []
+    },
     "source": [
       "-"
     ],
