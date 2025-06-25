@@ -18,6 +18,10 @@
       "muzukashii": [ 8, 803 ],
       "oni": [ 10, 1139 ]
     },
+    "date": {
+      "release": "2025/01/11",
+      "update": null
+    },
     "": "1jm0jHfCTQ6rnhTXD5QOp0J3oMuM4HKD5"
   },
   {
@@ -39,6 +43,10 @@
       "muzukashii": [ 7, 768 ],
       "oni": [ 9, 900 ]
     },
+    "date": {
+      "release": "2024/11/13",
+      "update": null
+    },
     "": "1nBS_OkIHJ2gfBhy55htl3MKv8PpKzFDq"
   },
   {
@@ -59,6 +67,10 @@
       "futsuu": [ 4, 611 ],
       "muzukashii": [ 7, 949 ],
       "oni": [ 9, 1367 ]
+    },
+    "date": {
+      "release": "2024/09/27",
+      "update": null
     },
     "": "1dtZiyAfwQWpVuVymCXlkhgWkU1QEdzkR"
   },
@@ -82,6 +94,10 @@
       "muzukashii": [ 6, 290 ],
       "oni": [ 7, 335 ]
     },
+    "date": {
+      "release": "2024/09/15",
+      "update": "2025/03/15"
+    },
     "": "1se1qkfxkCs0oUULuR3DWWOz1Dz_6AZWq"
   },
   {
@@ -104,6 +120,10 @@
       "oni": [ 8, 701 ],
       "ura": [ 10, 1265 ]
     },
+    "date": {
+      "release": "2024/10/06",
+      "update": null
+    },
     "": "17vO8P3waBmcNf2YwfTqEOj8_bTxQJypq"
   },
   {
@@ -124,6 +144,10 @@
       "futsuu": [ 5, 194 ],
       "muzukashii": [ 5, 280 ],
       "oni": [ 8, 482 ]
+    },
+    "date": {
+      "release": "2024/09/20",
+      "update": "2025/03/21"
     },
     "": "1MRP-Isf8iK6-8xOvd-uHLSItb-VhQmwY"
   }
