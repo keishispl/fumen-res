@@ -18,6 +18,10 @@
       "muzukashii": [ 8, 1106 ],
       "oni": [ 10, 1832 ]
     },
+    "date": {
+      "release": "2024/09/21",
+      "update": null
+    },
     "": "1l0aypD10eHYCPPTDAdiEN6t6EXSU3nSD"
   },
   {
@@ -39,6 +43,10 @@
       "oni": [ 9, 888 ],
       "ura": [ 10, 1000 ]
     },
+    "date": {
+      "release": "2024/09/01",
+      "update": "2024/12/14"
+    },
     "": "1WpyUGLtibUZLESeYkS89t_B3dURtdBZw"
   },
   {
@@ -59,6 +67,10 @@
       "futsuu": [ 4, 393 ],
       "muzukashii": [ 6, 680 ],
       "oni": [ 10, 941 ]
+    },
+    "date": {
+      "release": "2024/08/25",
+      "update": "2024/12/14"
     },
     "": "10i1MIP5xD3KwkqvAjfmR1YCeUdfoslBt"
   }
