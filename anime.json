@@ -33,11 +33,7 @@
     "link": "GQb3LxrQI4c",
     "song": "サインはB -New Arrange ver-",
     "artist": {
-      "main": [
-        {
-          "name": "B小町"
-        }
-      ],
+      "main": [],
       "vocal": [
         {
           "name": "B小町"
@@ -187,11 +183,7 @@
     "link": "3mOky2qe6gw",
     "song": "ニッポン笑顔百景",
     "artist": {
-      "main": [
-        {
-          "name": "ももいろクローバーZ"
-        }
-      ],
+      "main": [],
       "vocal": [
         {
           "name": "ももいろクローバーZ"
@@ -217,11 +209,7 @@
     "link": "vGPIU5yX4fQ",
     "song": "愛とか。",
     "artist": {
-      "main": [
-        {
-          "name": "りりあ。"
-        }
-      ],
+      "main": [],
       "vocal": [
         {
           "name": "りりあ。"
@@ -358,5 +346,84 @@
       "update": null
     },
     "": "1ryph2bohvDLScxtR64HAX_Bz-55jrVKf"
+  },
+  {
+    "link": "6nda3Rlay28",
+    "song": "Drops",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "坂本真綾"
+        }
+      ]
+    },
+    "source": "ある魔女が死ぬまで",
+    "bpm": 178,
+    "duration": "1m 32s",
+    "chart": {
+      "kantan": [ 2, 149 ],
+      "futsuu": [ 3, 272 ],
+      "muzukashii": [ 5, 291 ],
+      "oni": [ 7, 345 ]
+    },
+    "date": {
+      "release": "2025/04/06",
+      "update": null
+    },
+    "": "16fzVsHmkmnJp9nchkjw47mAth-a1WXG9"
+  },
+  {
+    "link": "4noCHoUpWFY",
+    "song": "LOVE or HATE?",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "前島麻由"
+        }
+      ]
+    },
+    "source": "悪役令嬢レベル99～私は裏ボスですが魔王ではありません～",
+    "bpm": 280,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [ 3, 147 ],
+      "futsuu": [ 4, 215 ],
+      "muzukashii": [ 7, 295 ],
+      "oni": [ 10, 516 ]
+    },
+    "date": {
+      "release": "2024/12/15",
+      "update": "2025/01/18"
+    },
+    "": "1lJlX50tzyhNj2lKvR5f9Dov3Df0eV2Ww"
+  },
+  {
+    "link": "FkLgDQUNl-I",
+    "song": "わっちゅあね？",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "来栖りん"
+        }
+      ]
+    },
+    "source": "歴史に残る悪女になるぞ 悪役令嬢になるほど王子の溺愛は加速するようです！",
+    "bpm": 260,
+    "duration": "1m 27s",
+    "chart": {
+      "kantan": [ 2, 135 ],
+      "futsuu": [ 4, 226 ],
+      "muzukashii": [ 6, 300 ],
+      "oni": [ 10, 405 ],
+      "ura": [ 10, 454 ]
+    },
+    "date": {
+      "release": "2024/12/15",
+      "update": "2025/03/08"
+    },
+    "": "1K_JOsrV-kWZRFsXrPKFs67AgaQ98MH8Q"
   }
 ]
