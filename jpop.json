@@ -5,10 +5,15 @@
     "artist": {
       "main": [
         {
-          "name": "さくらみこ"
+          "name": "堀江晶太",
+          "alt": " (kemu)"
         }
       ],
-      "vocal": []
+      "vocal": [
+        {
+          "name": "さくらみこ"
+        }
+      ]
     },
     "source": null,
     "bpm": 180,
@@ -31,10 +36,14 @@
     "artist": {
       "main": [
         {
-          "name": "しぐれうい"
+          "name": "ナナホシ管弦楽団"
         }
       ],
-      "vocal": []
+      "vocal": [
+        {
+          "name": "しぐれうい"
+        }
+      ]
     },
     "source": null,
     "bpm": 168,
@@ -60,7 +69,11 @@
           "name": "YOASOBI"
         }
       ],
-      "vocal": []
+      "vocal": [
+        {
+          "name": "YOASOBI"
+        }
+      ]
     },
     "source": "映画『たぶん』",
     "bpm": 90,
@@ -87,7 +100,9 @@
         }
       ],
       "vocal": [
-        "ちゅーたん (CV: 早見沙織)"
+        {
+          "name": "ちゅーたん (CV: 早見沙織)"
+        }
       ]
     },
     "source": null,
@@ -114,7 +129,11 @@
           "name": "tuki."
         }
       ],
-      "vocal": []
+      "vocal": [
+        {
+          "name": "tuki."
+        }
+      ]
     },
     "source": null,
     "bpm": 103,
@@ -138,11 +157,21 @@
     "artist": {
       "main": [
         {
-          "name": "しぐれうい",
-          "alt": "（９さい）"
+          "name": "IOSYS"
+        },
+        {
+          "name": "まろん"
+        },
+        {
+          "name": "D.watt"
         }
       ],
-      "vocal": []
+      "vocal": [
+        {
+          "name": "しぐれうい",
+          "alt": " (9さい)"
+        }
+      ]
     },
     "source": null,
     "bpm": 165,
