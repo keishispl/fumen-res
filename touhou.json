@@ -63,6 +63,36 @@
     "": "15GLGOr3ePI3pMXp-XaXSIAV8PaUo7t-J"
   },
   {
+    "link": "IuABDADGeP0",
+    "song": "メイドノココロハアヤツリドール",
+    "artist": {
+      "main": [
+        {
+          "name": "森羅万象"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "あよ"
+        }
+      ]
+    },
+    "source": "東方花映塚　～ Phantasmagoria of Flower View",
+    "bpm": 128,
+    "duration": "2m 43s",
+    "chart": {
+      "kantan": [ 3, 210 ],
+      "futsuu": [ 4, 340 ],
+      "muzukashii": [ 6, 490 ],
+      "oni": [ 7, 510 ]
+    },
+    "date": {
+      "release": "2025/03/24",
+      "update": null
+    },
+    "": "1VS8Hnnhp1ESQIsqxAxzbt7G-MJJD8MXt"
+  },
+  {
     "link": "_VH91mivTUw",
     "song": "悪戯センセーション",
     "artist": {
