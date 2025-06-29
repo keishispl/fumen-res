@@ -9,8 +9,12 @@
         }
       ],
       "vocal": [
-        "あやぽんず＊",
-        "あよ"
+        {
+          "name": "あやぽんず＊"
+        },
+        {
+          "name": "あよ"
+        }
       ]
     },
     "source": "東方地霊殿　～ Subterranean Animism",
@@ -38,7 +42,9 @@
         }
       ],
       "vocal": [
-        "チルノ (CV: ファイルーズあい)"
+        {
+          "name": "チルノ (CV: ファイルーズあい)"
+        }
       ]
     },
     "source": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
@@ -66,8 +72,12 @@
         }
       ],
       "vocal": [
-        "あやぽんず＊",
-        "あよ"
+        {
+          "name": "あやぽんず＊"
+        },
+        {
+          "name": "あよ"
+        }
       ]
     },
     "source": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
@@ -121,7 +131,9 @@
         }
       ],
       "vocal": [
-        "senya"
+        {
+          "name": "senya"
+        }
       ]
     },
     "source": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
@@ -201,7 +213,9 @@
         }
       ],
       "vocal": [
-        "あやぽんず＊"
+        {
+          "name": "あやぽんず＊"
+        }
       ]
     },
     "source": "東方緋想天　～ Scarlet Weather Rhapsody",
