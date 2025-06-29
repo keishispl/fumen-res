@@ -91,6 +91,37 @@
     "": "1dtZiyAfwQWpVuVymCXlkhgWkU1QEdzkR"
   },
   {
+    "link": "N_vYUNEktsA",
+    "song": "도깨비꽃 (トッケビの花)",
+    "artist": {
+      "main": [
+        {
+          "name": "TAK"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "텐코 시부키",
+          "alt": " (TENKO SHIBUKI)"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 162,
+    "duration": "3m 7s",
+    "chart": {
+      "kantan": [ 3, 287 ],
+      "futsuu": [ 5, 611 ],
+      "muzukashii": [ 6, 760 ],
+      "oni": [ 9, 1037 ]
+    },
+    "date": {
+      "release": "2025/04/27",
+      "update": null
+    },
+    "": "1TRd5v99FlqxT-F68tUIKV1yyn2ZlgqDb"
+  },
+  {
     "link": "K4xLi8IF1FM",
     "song": "可愛くてごめん",
     "artist": {
