@@ -182,5 +182,181 @@
       "update": null
     },
     "": "17UHzctkfI1O4GIrqCko2zd-JGmXlbf5M"
+  },
+  {
+    "link": "3mOky2qe6gw",
+    "song": "ニッポン笑顔百景",
+    "artist": {
+      "main": [
+        {
+          "name": "ももいろクローバーZ"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "ももいろクローバーZ"
+        }
+      ]
+    },
+    "source": "じょしらく",
+    "bpm": 160,
+    "duration": "1m 26s",
+    "chart": {
+      "kantan": [ 3, 200 ],
+      "futsuu": [ 5, 300 ],
+      "muzukashii": [ 7, 400 ],
+      "oni": [ 9, 500 ]
+    },
+    "date": {
+      "release": "2025/03/06",
+      "update": null
+    },
+    "": "1eR52hzoEtgpZ6on90UUtjBjnByj_QmA1"
+  },
+  {
+    "link": "vGPIU5yX4fQ",
+    "song": "愛とか。",
+    "artist": {
+      "main": [
+        {
+          "name": "りりあ。"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "りりあ。"
+        }
+      ]
+    },
+    "source": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
+    "bpm": 100,
+    "duration": "1m 31s",
+    "chart": {
+      "kantan": [ 1, 70 ],
+      "futsuu": [ 4, 188 ],
+      "muzukashii": [ 5, 247 ],
+      "oni": [ 6, 326 ]
+    },
+    "date": {
+      "release": "2025/04/11",
+      "update": null
+    },
+    "": "1wC-rX9kTkfx9Ne4MfILkhYAxYmsCNCX_"
+  },
+  {
+    "link": "jF97ERTceV8",
+    "song": "快眠！安眠！スヤリスト生活",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "スヤリス姫（CV.水瀬いのり）"
+        }
+      ]
+    },
+    "source": "魔王城でおやすみ",
+    "bpm": 141,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [ 2, 124 ],
+      "futsuu": [ 3, 185 ],
+      "muzukashii": [ 7, 323 ],
+      "oni": [ 9, 455 ]
+    },
+    "date": {
+      "release": "2025/01/14",
+      "update": null
+    },
+    "": "12fpPZXGqphVdqTqBctH-1SNk_0esIV_1"
+  },
+  {
+    "link": "FM9AySPC9Ak",
+    "song": "眠れない",
+    "artist": {
+      "main": [
+        {
+          "name": "MIMiNARI"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "楠木ともり"
+        }
+      ]
+    },
+    "source": "ひきこまり吸血姫の悶々",
+    "bpm": 135,
+    "duration": "1m 27s",
+    "chart": {
+      "kantan": [ 1, 154 ],
+      "futsuu": [ 2, 211 ],
+      "muzukashii": [ 4, 289 ],
+      "oni": [ 7, 381 ]
+    },
+    "date": {
+      "release": "2025/01/10",
+      "update": null
+    },
+    "": "14fVFI29uLTp1dNSB6bIMxApcQDWzcwqw"
+  },
+  {
+    "link": "d62GvsOTaio",
+    "song": "Red Liberation",
+    "artist": {
+      "main": [
+        {
+          "name": "fripSide"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "fripSide"
+        }
+      ]
+    },
+    "source": "ひきこまり吸血姫の悶々",
+    "bpm": 135,
+    "duration": "1m 27s",
+    "chart": {
+      "kantan": [ 4, 246 ],
+      "futsuu": [ 5, 308 ],
+      "muzukashii": [ 8, 403 ],
+      "oni": [ 10, 543 ]
+    },
+    "date": {
+      "release": "2025/01/10",
+      "update": null
+    },
+    "": "1KD0Dmw8wkUplGww1mY0gYOxqOu10vfG2"
+  }
+  {
+    "link": "iUaZd98Dp3M",
+    "song": "恋人以上、好き未満",
+    "artist": {
+      "main": [
+        {
+          "name": "=LOVE"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "=LOVE"
+        }
+      ]
+    },
+    "source": "クラスの大嫌いな女子と結婚することになった。",
+    "bpm": 161,
+    "duration": "1m 31s",
+    "chart": {
+      "kantan": [ 2, 106 ],
+      "futsuu": [ 4, 206 ],
+      "muzukashii": [ 6, 324 ],
+      "oni": [ 8, 424 ]
+    },
+    "date": {
+      "release": "2025/03/25",
+      "update": null
+    },
+    "": "1ryph2bohvDLScxtR64HAX_Bz-55jrVKf"
   }
 ]
