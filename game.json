@@ -3,18 +3,18 @@
     "link": "M6DyhuxoNw8",
     "song": "\"HELLO!!\"",
     "artist": {
-      "main": [
+      "main": [],
+      "vocal": [
         {
-          "name": "日高愛 (戸松遥)"
+          "name": "日高愛 (CV.戸松遥)"
         },
         {
-          "name": "水谷絵理 (花澤香菜)"
+          "name": "水谷絵理 (CV.花澤香菜)"
         },
         {
-          "name": "秋月涼 (三瓶由布子)"
+          "name": "秋月涼 (CV.三瓶由布子)"
         }
-      ],
-      "vocal": []
+      ]
     },
     "source": "アイドルマスター",
     "bpm": 173,
@@ -40,7 +40,11 @@
           "name": "黒魔"
         }
       ],
-      "vocal": []
+      "vocal": [
+        {
+          "name": "Inst ver."
+        }
+      ]
     },
     "source": "オンゲキ",
     "bpm": "50 - 200",
