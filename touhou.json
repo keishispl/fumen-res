@@ -134,7 +134,7 @@
           "name": "上海アリス幻樂団"
         }
       ],
-      "vocal": []
+      "vocal": null
     },
     "source": "東方永夜抄　～ Imperishable Night",
     "bpm": "153 - 164",
@@ -190,7 +190,7 @@
           "name": "東京アクティブNEETs"
         }
       ],
-      "vocal": []
+      "vocal": null
     },
     "source": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
     "bpm": 160,
@@ -216,7 +216,7 @@
           "name": "上海アリス幻樂団"
         }
       ],
-      "vocal": []
+      "vocal": null
     },
     "source": "東方紅魔郷　～ the Embodiment of Scarlet Devil",
     "bpm": 130,
