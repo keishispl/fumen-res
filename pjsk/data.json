@@ -1,0 +1,54 @@
+[
+     {
+          "id": "001-hszk",
+          "name": "ホシシズク",
+          "yori": "maimai でらっくす FESTiVAL",
+          "composer": [
+               "森羅万象"
+          ],
+          "vocal": [
+               "あやぽんず＊",
+               "あよ"
+          ],
+          "info": {
+               "bpm": "182",
+               "duration": "2:48",
+               "creation": [
+                    "2025-06-21",
+                    "14:35"
+               ]
+          },
+          "difficulties": [
+               {
+                    "type": "easy",
+                    "data": null
+               },
+               {
+                    "type": "normal",
+                    "data": null
+               },
+               {
+                    "type": "hard",
+                    "data": null
+               },
+               {
+                    "type": "expert",
+                    "data": null
+               },
+               {
+                    "type": "master",
+                    "data": {
+                         "level": 30,
+                         "combo": 1086,
+                         "id": "3Dvby2C8wacVFycUUDCdEza"
+                    }
+               },
+               {
+                    "type": "append",
+                    "data": null
+               }
+          ],
+          "image": "n3fdfqzlgu6ti7i62cjk3bxcdch0",
+          "youtube": "kK8wxlnYyJI"
+     }
+]
