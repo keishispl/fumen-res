@@ -33,7 +33,11 @@
                },
                {
                     "type": "expert",
-                    "data": null
+                    "data": {
+                         "level": 26,
+                         "combo": 1043,
+                         "id": "AwS2ghynvkZ99LhQwT5bPMt"
+                    }
                },
                {
                     "type": "master",
