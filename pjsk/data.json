@@ -49,7 +49,11 @@
                },
                {
                     "type": "append",
-                    "data": null
+                    "data": {
+                         "level": 30,
+                         "combo": 2030,
+                         "id": "35KsmqGYyJRC2Uj7NqPYCcG"
+                    }
                }
           ],
           "image": "n3fdfqzlgu6ti7i62cjk3bxcdch0",
