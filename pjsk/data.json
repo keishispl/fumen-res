@@ -2,7 +2,7 @@
      {
           "id": "001-hszk",
           "name": "ホシシズク",
-          "yori": "maimai でらっくす FESTiVAL",
+          "yori": "maimai でらっくす",
           "composer": [
                "森羅万象"
           ],
@@ -12,11 +12,7 @@
           ],
           "info": {
                "bpm": "182",
-               "duration": "2:48",
-               "creation": [
-                    "2025-06-21",
-                    "14:35"
-               ]
+               "duration": "2:48"
           },
           "difficulties": [
                {
@@ -58,5 +54,52 @@
           ],
           "image": "n3fdfqzlgu6ti7i62cjk3bxcdch0",
           "youtube": "kK8wxlnYyJI"
+     },
+     {
+          "id": "002-mknd",
+          "name": "ダーク・エクス・マキナ♡",
+          "yori": "太鼓の達人",
+          "composer": [
+               "坪井リヒト(BNSI)"
+          ],
+          "vocal": [
+               "マキナ the DARK"
+          ],
+          "info": {
+               "bpm": "99 - 432",
+               "duration": "2:38"
+          },
+          "difficulties": [
+               {
+                    "type": "easy",
+                    "data": null
+               },
+               {
+                    "type": "normal",
+                    "data": null
+               },
+               {
+                    "type": "hard",
+                    "data": null
+               },
+               {
+                    "type": "expert",
+                    "data": {
+                         "level": 30,
+                         "combo": 2629,
+                         "id": "3qxMkVBpdKgrP8tHKYdvKR5"
+                    }
+               },
+               {
+                    "type": "master",
+                    "data": null
+               },
+               {
+                    "type": "append",
+                    "data": null
+               }
+          ],
+          "image": "jnabujcr0dh8a7oa1zexqvl2qvsy",
+          "youtube": "klv4FU8WTfk"
      }
 ]
