@@ -352,6 +352,40 @@
     "": "1Nn3Qvpk7fhlV8Sb19DUNmHeu1BM9v89o"
   },
   {
+    "link": "Mwi0Yach0EM",
+    "song": "Viewtiful Days!",
+    "artist": {
+      "main": [],
+      "vocal": null
+    },
+    "source": "スライム倒して300年、知らないうちにレベルMAXになってました",
+    "bpm": 196,
+    "duration": "1m 31s",
+    "chart": {
+      "kantan": [
+        3,
+        174
+      ],
+      "futsuu": [
+        4,
+        227
+      ],
+      "muzukashii": [
+        5,
+        256
+      ],
+      "oni": [
+        9,
+        472
+      ]
+    },
+    "date": {
+      "release": "2024/11/23",
+      "update": null
+    },
+    "": "1MbOq8NXgEV6WUkkDu7D6aMKiRvikcJFL"
+  },
+  {
     "link": "jdYl7K5H_zk",
     "song": "tailwind",
     "artist": {
@@ -390,6 +424,46 @@
       "update": null
     },
     "": "1XZo-qs2xODHzUBx-MLpZaQLcbLm8Tf4i"
+  },
+  {
+    "link": "n6q-99Q0BlI",
+    "song": "ぐだふわエブリデー",
+    "artist": {
+      "main": [
+        {
+          "name": "悠木碧"
+        }
+      ],
+      "vocal": [
+        "悠木碧"
+      ]
+    },
+    "source": "スライム倒して300年、知らないうちにレベルMAXになってました",
+    "bpm": 220,
+    "duration": "1m 25s",
+    "chart": {
+      "kantan": [
+        2,
+        125
+      ],
+      "futsuu": [
+        4,
+        236
+      ],
+      "muzukashii": [
+        8,
+        323
+      ],
+      "oni": [
+        10,
+        556
+      ]
+    },
+    "date": {
+      "release": "2024/11/23",
+      "update": null
+    },
+    "": "12Ix1_bSYrpoVcKBi8Z3R45NLspLPSk23"
   },
   {
     "link": "FkLgDQUNl-I",
@@ -432,6 +506,42 @@
       "update": "2025/03/08"
     },
     "": "1K_JOsrV-kWZRFsXrPKFs67AgaQ98MH8Q"
+  },
+  {
+    "link": "WhOesCYSnso",
+    "song": "イシュカン・コミュニケーション",
+    "artist": {
+      "main": [],
+      "vocal": [
+        "ちょろゴンず"
+      ]
+    },
+    "source": "小林さんちのメイドラゴン",
+    "bpm": 216,
+    "duration": "1m 30s",
+    "chart": {
+      "kantan": [
+        3,
+        187
+      ],
+      "futsuu": [
+        5,
+        242
+      ],
+      "muzukashii": [
+        7,
+        292
+      ],
+      "oni": [
+        8,
+        404
+      ]
+    },
+    "date": {
+      "release": "2025/01/23",
+      "update": null
+    },
+    "": "1dKdGc17tMytWS9cywpINHwnhdK7Evq9L"
   },
   {
     "link": "GQb3LxrQI4c",
@@ -587,6 +697,43 @@
     "": "1rcHue4M6YfwUlUUDPyoiH6ckpWbmSOrW"
   },
   {
+    "link": "5hN5dq9VY7M",
+    "song": "レイジョアハンズ!! 〜Raise Y/Our Hands!!〜",
+    "artist": {
+      "main": [],
+      "vocal": [
+        "レイ(芹澤優)",
+        "クレア(奈波果林)"
+      ]
+    },
+    "source": "私の推しは悪役令嬢。",
+    "bpm": 160,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [
+        2,
+        179
+      ],
+      "futsuu": [
+        5,
+        284
+      ],
+      "muzukashii": [
+        7,
+        327
+      ],
+      "oni": [
+        10,
+        396
+      ]
+    },
+    "date": {
+      "release": "2024/11/29",
+      "update": null
+    },
+    "": "1f8uycTpsiFvEUSlu0PRQAdWgliiNhVAS"
+  },
+  {
     "link": "YjrSkBjDVEw",
     "song": "不可思議のカルテ",
     "artist": {
@@ -640,6 +787,46 @@
     "": "17UHzctkfI1O4GIrqCko2zd-JGmXlbf5M"
   },
   {
+    "link": "lBxOXJmIZTo",
+    "song": "小さな恋のうた（お隣の天使様 ver.）",
+    "artist": {
+      "main": [
+        {
+          "name": "MONGOL800"
+        }
+      ],
+      "vocal": [
+        "椎名真昼（CV:石見舞菜香）"
+      ]
+    },
+    "source": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "bpm": 204,
+    "duration": "4m 19s",
+    "chart": {
+      "kantan": [
+        3,
+        535
+      ],
+      "futsuu": [
+        4,
+        650
+      ],
+      "muzukashii": [
+        8,
+        912
+      ],
+      "oni": [
+        10,
+        1500
+      ]
+    },
+    "date": {
+      "release": "2024/12/08",
+      "update": null
+    },
+    "": "1HcInRXuj0CIRWl4S1bETQ9gUVRAhfqij"
+  },
+  {
     "link": "jF97ERTceV8",
     "song": "快眠！安眠！スヤリスト生活",
     "artist": {
@@ -687,9 +874,7 @@
         }
       ],
       "vocal": [
-        {
-          "name": "=LOVE"
-        }
+        "=LOVE"
       ]
     },
     "source": "クラスの大嫌いな女子と結婚することになった。",
@@ -756,6 +941,86 @@
       "update": null
     },
     "": "1wC-rX9kTkfx9Ne4MfILkhYAxYmsCNCX_"
+  },
+  {
+    "link": "SGd9dllIbyY",
+    "song": "愛唄（お隣の天使様 ver.）",
+    "artist": {
+      "main": [
+        {
+          "name": "GReeeeN"
+        }
+      ],
+      "vocal": [
+        "椎名真昼（CV:石見舞菜香）"
+      ]
+    },
+    "source": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "bpm": 182,
+    "duration": "3m 26s",
+    "chart": {
+      "kantan": [
+        2,
+        431
+      ],
+      "futsuu": [
+        5,
+        501
+      ],
+      "muzukashii": [
+        8,
+        651
+      ],
+      "oni": [
+        10,
+        1331
+      ]
+    },
+    "date": {
+      "release": "2024/12/01",
+      "update": null
+    },
+    "": "1Dv_gunijrlYlXpOB4d3qyoTUO_R3Gbg3"
+  },
+  {
+    "link": "Z2icQoPrX9M",
+    "song": "明日の私に幸あれ",
+    "artist": {
+      "main": [
+        {
+          "name": "ナナヲアカリ"
+        }
+      ],
+      "vocal": [
+        "ナナヲアカリ"
+      ]
+    },
+    "source": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+    "bpm": 132,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [
+        4,
+        222
+      ],
+      "futsuu": [
+        5,
+        280
+      ],
+      "muzukashii": [
+        7,
+        366
+      ],
+      "oni": [
+        9,
+        504
+      ]
+    },
+    "date": {
+      "release": "2025/01/23",
+      "update": null
+    },
+    "": "1qJY-nNIdGJrD0sKZKirEYN-2kVP1V0cv"
   },
   {
     "link": "mUSVav9pKO4",
@@ -840,5 +1105,85 @@
       "update": null
     },
     "": "14fVFI29uLTp1dNSB6bIMxApcQDWzcwqw"
+  },
+  {
+    "link": "Yd8kUoB72xU",
+    "song": "青春コンプレックス",
+    "artist": {
+      "main": [
+        {
+          "name": "結束バンド"
+        }
+      ],
+      "vocal": [
+        "結束バンド"
+      ]
+    },
+    "source": "ぼっち・ざ・ろっく！",
+    "bpm": 190,
+    "duration": "1m 28s",
+    "chart": {
+      "kantan": [
+        3,
+        184
+      ],
+      "futsuu": [
+        5,
+        298
+      ],
+      "muzukashii": [
+        7,
+        407
+      ],
+      "oni": [
+        10,
+        656
+      ]
+    },
+    "date": {
+      "release": "2025/01/16",
+      "update": null
+    },
+    "": "1PGUUi-rtk1p0sS8f3sgsru9gr3GRoGiV"
+  },
+  {
+    "link": "maKok2RItxM",
+    "song": "青空のラプソディ",
+    "artist": {
+      "main": [
+        {
+          "name": "fhána"
+        }
+      ],
+      "vocal": [
+        "fhána"
+      ]
+    },
+    "source": "小林さんちのメイドラゴン",
+    "bpm": 270,
+    "duration": "1m 31s",
+    "chart": {
+      "kantan": [
+        4,
+        203
+      ],
+      "futsuu": [
+        5,
+        257
+      ],
+      "muzukashii": [
+        8,
+        409
+      ],
+      "oni": [
+        10,
+        536
+      ]
+    },
+    "date": {
+      "release": "2025/01/15",
+      "update": null
+    },
+    "": "1QyUI39FKSD69a3TekNeC-GbOstK2iprt"
   }
 ]
