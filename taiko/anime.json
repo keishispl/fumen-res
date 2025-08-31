@@ -118,6 +118,42 @@
     "": "16fzVsHmkmnJp9nchkjw47mAth-a1WXG9"
   },
   {
+    "link": "0vJI7S5olSI",
+    "song": "Humming Love",
+    "artist": {
+      "main": [],
+      "vocal": [
+        "SSGIRLS"
+      ]
+    },
+    "source": "ささやくように恋を唄う",
+    "bpm": 180,
+    "duration": "4m 5s",
+    "chart": {
+      "kantan": [
+        2,
+        513
+      ],
+      "futsuu": [
+        5,
+        826
+      ],
+      "muzukashii": [
+        8,
+        981
+      ],
+      "oni": [
+        10,
+        1630
+      ]
+    },
+    "date": {
+      "release": "2024/12/11",
+      "update": null
+    },
+    "": "1yulNA5SRA73o-BiXFRdQV9zR4XMt4i9E"
+  },
+  {
     "link": "4noCHoUpWFY",
     "song": "LOVE or HATE?",
     "artist": {
@@ -154,6 +190,82 @@
       "update": "2025/01/18"
     },
     "": "1lJlX50tzyhNj2lKvR5f9Dov3Df0eV2Ww"
+  },
+  {
+    "link": "PxpC_kAQf0I",
+    "song": "Love is a potion",
+    "artist": {
+      "main": [],
+      "vocal": [
+        "harmoe"
+      ]
+    },
+    "source": "ポーション頼みで生き延びます！",
+    "bpm": 200,
+    "duration": "1m 20s",
+    "chart": {
+      "kantan": [
+        4,
+        212
+      ],
+      "futsuu": [
+        6,
+        254
+      ],
+      "muzukashii": [
+        8,
+        297
+      ],
+      "oni": [
+        9,
+        430
+      ]
+    },
+    "date": {
+      "release": "2024/11/24",
+      "update": null
+    },
+    "": "1i-EbDOZxcq5UmkbEtLK7aChvvZwZNazX"
+  },
+  {
+    "link": "W1O8iRu0V4A",
+    "song": "Nameless Story",
+    "artist": {
+      "main": [
+        {
+          "name": "寺島拓篤"
+        }
+      ],
+      "vocal": [
+        "寺島拓篤"
+      ]
+    },
+    "source": "転生したらスライムだった件",
+    "bpm": 195,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [
+        2,
+        246
+      ],
+      "futsuu": [
+        3,
+        297
+      ],
+      "muzukashii": [
+        7,
+        355
+      ],
+      "oni": [
+        9,
+        579
+      ]
+    },
+    "date": {
+      "release": "2024/12/15",
+      "update": null
+    },
+    "": "1S9q0v2OJyq1zsvPh5lR-4RBp6GGI5TP-"
   },
   {
     "link": "d62GvsOTaio",
@@ -238,6 +350,46 @@
       "update": null
     },
     "": "1Nn3Qvpk7fhlV8Sb19DUNmHeu1BM9v89o"
+  },
+  {
+    "link": "jdYl7K5H_zk",
+    "song": "tailwind",
+    "artist": {
+      "main": [
+        {
+          "name": "katagiri"
+        }
+      ],
+      "vocal": [
+        "katagiri"
+      ]
+    },
+    "source": "ポーション頼みで生き延びます！",
+    "bpm": 143,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [
+        2,
+        158
+      ],
+      "futsuu": [
+        4,
+        190
+      ],
+      "muzukashii": [
+        8,
+        345
+      ],
+      "oni": [
+        9,
+        400
+      ]
+    },
+    "date": {
+      "release": "2024/11/24",
+      "update": null
+    },
+    "": "1XZo-qs2xODHzUBx-MLpZaQLcbLm8Tf4i"
   },
   {
     "link": "FkLgDQUNl-I",
