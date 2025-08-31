@@ -1,5 +1,134 @@
 [
   {
+    "link": "yIc8j0oMAW8",
+    "song": "Blackjack",
+    "artist": {
+      "main": [
+        {
+          "name": "ゆちゃP"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "巡音ルカ"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 114,
+    "duration": "2m 6s",
+    "chart": {
+      "kantan": [
+        2,
+        239
+      ],
+      "futsuu": [
+        4,
+        319
+      ],
+      "muzukashii": [
+        7,
+        395
+      ],
+      "oni": [
+        8,
+        477
+      ]
+    },
+    "date": {
+      "release": "2025/02/17",
+      "update": null
+    },
+    "": "1PkmQBfxdfXOs1Qw8OyMwp0INwxR7XPSr"
+  },
+  {
+    "link": "C6TAZ8Elbao",
+    "song": "FUN!!",
+    "artist": {
+      "main": [
+        {
+          "name": "DECO*27"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "MORE MORE JUMP！"
+        }
+      ]
+    },
+    "source": "映画『劇場版 プロジェクトセカイ壊れたセカイと歌えないミク』",
+    "bpm": 186,
+    "duration": "1m 55s",
+    "chart": {
+      "kantan": [
+        2,
+        263
+      ],
+      "futsuu": [
+        5,
+        432
+      ],
+      "muzukashii": [
+        6,
+        501
+      ],
+      "oni": [
+        8,
+        561
+      ]
+    },
+    "date": {
+      "release": "2025/03/01",
+      "update": null
+    },
+    "": "1xjYszTZfhRpyx5iqmMFqp0_OnAOc35hh"
+  },
+  {
+    "link": "_gWn38pnmqI",
+    "song": "snooze (セカイ ver.)",
+    "artist": {
+      "main": [
+        {
+          "name": "wotaku"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "MORE MORE JUMP！"
+        },
+        {
+          "name": "鏡音レン"
+        }
+      ]
+    },
+    "source": "ゲーム『プロセカ』",
+    "bpm": 150,
+    "duration": "2m 3s",
+    "chart": {
+      "kantan": [
+        3,
+        277
+      ],
+      "futsuu": [
+        4,
+        387
+      ],
+      "muzukashii": [
+        6,
+        426
+      ],
+      "oni": [
+        10,
+        617
+      ]
+    },
+    "date": {
+      "release": "2025/02/06",
+      "update": null
+    },
+    "": "13iW8imtJKvS_2Fc88g362CCtq5CIRbPH"
+  },
+  {
     "link": "2b1IexhKPz4",
     "song": "きゅうくらりん",
     "artist": {
@@ -18,79 +147,28 @@
     "bpm": "220 - 225",
     "duration": "3m 32s",
     "chart": {
-      "kantan": [ 4, 575 ],
-      "futsuu": [ 5, 750 ],
-      "muzukashii": [ 8, 1106 ],
-      "oni": [ 10, 1832 ]
+      "kantan": [
+        4,
+        575
+      ],
+      "futsuu": [
+        5,
+        750
+      ],
+      "muzukashii": [
+        8,
+        1106
+      ],
+      "oni": [
+        10,
+        1832
+      ]
     },
     "date": {
       "release": "2024/09/21",
       "update": null
     },
     "": "1l0aypD10eHYCPPTDAdiEN6t6EXSU3nSD"
-  },
-  {
-    "link": "FkO8ub83wss",
-    "song": "バグ",
-    "artist": {
-      "main": [
-        {
-          "name": "かいりきベア"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "初音ミク"
-        }
-      ]
-    },
-    "source": null,
-    "bpm": 186,
-    "duration": "2m 48s",
-    "chart": {
-      "futsuu": [ 5, 540 ],
-      "muzukashii": [ 7, 722 ],
-      "oni": [ 9, 888 ],
-      "ura": [ 10, 1000 ]
-    },
-    "date": {
-      "release": "2024/09/01",
-      "update": "2024/12/14"
-    },
-    "": "1WpyUGLtibUZLESeYkS89t_B3dURtdBZw"
-  },
-  {
-    "link": "19y8YTbvri8",
-    "song": "メズマライザー",
-    "artist": {
-      "main": [
-        {
-          "name": "サツキ"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "初音ミク"
-        },
-        {
-          "name": "重音テト"
-        }
-      ]
-    },
-    "source": null,
-    "bpm": 185,
-    "duration": "2m 23s",
-    "chart": {
-      "kantan": [ 2, 255 ],
-      "futsuu": [ 4, 393 ],
-      "muzukashii": [ 6, 680 ],
-      "oni": [ 10, 941 ]
-    },
-    "date": {
-      "release": "2024/08/25",
-      "update": "2024/12/14"
-    },
-    "": "10i1MIP5xD3KwkqvAjfmR1YCeUdfoslBt"
   },
   {
     "link": "gXNWjnE5gT0",
@@ -114,16 +192,496 @@
     "bpm": 142,
     "duration": "2m 52s",
     "chart": {
-      "kantan": [ 3, 290 ],
-      "futsuu": [ 4, 452 ],
-      "muzukashii": [ 7, 768 ],
-      "oni": [ 9, 971 ]
+      "kantan": [
+        3,
+        290
+      ],
+      "futsuu": [
+        4,
+        452
+      ],
+      "muzukashii": [
+        7,
+        768
+      ],
+      "oni": [
+        9,
+        971
+      ]
     },
     "date": {
       "release": "2025/04/07",
       "update": null
     },
     "": "1NVMbhdF3MmVJTVyTNJ4L3mMhrht03NJa"
+  },
+  {
+    "link": "d3Eqz55SxlA",
+    "song": "アンチユー",
+    "artist": {
+      "main": [
+        {
+          "name": "Chinozo"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "MORE MORE JUMP！"
+        },
+        {
+          "name": "巡音ルカ"
+        }
+      ]
+    },
+    "source": "ゲーム『プロセカ』",
+    "bpm": 129,
+    "duration": "1m 55s",
+    "chart": {
+      "kantan": [
+        2,
+        179
+      ],
+      "futsuu": [
+        3,
+        277
+      ],
+      "muzukashii": [
+        5,
+        315
+      ],
+      "oni": [
+        7,
+        359
+      ]
+    },
+    "date": {
+      "release": "2025/03/01",
+      "update": null
+    },
+    "": "1GKLM5tHABVdJ0E08gQPMHchi5_SLEGbg"
+  },
+  {
+    "link": "7yJRsFFRoQY",
+    "song": "アンテナ39",
+    "artist": {
+      "main": [
+        {
+          "name": "柊マグネタイト"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 147,
+    "duration": "2m 4s",
+    "chart": {
+      "kantan": [
+        3,
+        396
+      ],
+      "futsuu": [
+        5,
+        456
+      ],
+      "muzukashii": [
+        7,
+        612
+      ],
+      "oni": [
+        9,
+        784
+      ]
+    },
+    "date": {
+      "release": "2025/02/16",
+      "update": null
+    },
+    "": "1g33HiDiSa_eKkV2B76PTi4l9p9Dof5hV"
+  },
+  {
+    "link": "HKfzeTe2SCI",
+    "song": "シルバーコレクター",
+    "artist": {
+      "main": [
+        {
+          "name": "Shu"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "巡音ルカ"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 180,
+    "duration": "2m 8s",
+    "chart": {
+      "kantan": [
+        3,
+        281
+      ],
+      "futsuu": [
+        6,
+        396
+      ],
+      "muzukashii": [
+        8,
+        462
+      ],
+      "oni": [
+        10,
+        561
+      ]
+    },
+    "date": {
+      "release": "2025/02/16",
+      "update": null
+    },
+    "": "1biEvyz-GmAi5dHrMfba0WtNrzw4hLV2R"
+  },
+  {
+    "link": "91O6VohptEo",
+    "song": "スマイル*シンフォニー",
+    "artist": {
+      "main": [
+        {
+          "name": "DECO*27"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "ワンダーランズ×ショウタイム"
+        }
+      ]
+    },
+    "source": "映画『劇場版 プロジェクトセカイ壊れたセカイと歌えないミク』",
+    "bpm": 122,
+    "duration": "1m 55s",
+    "chart": {
+      "kantan": [
+        3,
+        231
+      ],
+      "futsuu": [
+        4,
+        302
+      ],
+      "muzukashii": [
+        7,
+        383
+      ],
+      "oni": [
+        8,
+        426
+      ]
+    },
+    "date": {
+      "release": "2025/02/28",
+      "update": null
+    },
+    "": "1YsXm1QJwq7u3gRQ4SU94LuQ_rRUn8Byp"
+  },
+  {
+    "link": "c56TpxfO9q0",
+    "song": "テレパシ",
+    "artist": {
+      "main": [
+        {
+          "name": "DECO*27"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 205,
+    "duration": "2m 25s",
+    "chart": {
+      "kantan": [
+        3,
+        321
+      ],
+      "futsuu": [
+        6,
+        464
+      ],
+      "muzukashii": [
+        7,
+        514
+      ],
+      "oni": [
+        10,
+        687
+      ]
+    },
+    "date": {
+      "release": "2025/03/02",
+      "update": null
+    },
+    "": "17Tq3qnfmQJI980Wh2jwRKgrFUc3TEoh6"
+  },
+  {
+    "link": "t5U0rrj0dio",
+    "song": "ハローセカイ",
+    "artist": {
+      "main": [
+        {
+          "name": "DECO*27"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        }
+      ]
+    },
+    "source": "映画『劇場版 プロジェクトセカイ壊れたセカイと歌えないミク』",
+    "bpm": "148 - 152",
+    "duration": "1m 59s",
+    "chart": {
+      "kantan": [
+        3,
+        249
+      ],
+      "futsuu": [
+        4,
+        378
+      ],
+      "muzukashii": [
+        7,
+        498
+      ],
+      "oni": [
+        9,
+        623
+      ]
+    },
+    "date": {
+      "release": "2025/02/28",
+      "update": null
+    },
+    "": "1af3mVxQ_Do-GnljcNcNupoq1SF8lRseL"
+  },
+  {
+    "link": "FkO8ub83wss",
+    "song": "バグ",
+    "artist": {
+      "main": [
+        {
+          "name": "かいりきベア"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 186,
+    "duration": "2m 48s",
+    "chart": {
+      "futsuu": [
+        5,
+        540
+      ],
+      "muzukashii": [
+        7,
+        722
+      ],
+      "oni": [
+        9,
+        888
+      ],
+      "ura": [
+        10,
+        1000
+      ]
+    },
+    "date": {
+      "release": "2024/09/01",
+      "update": "2024/12/14"
+    },
+    "": "1WpyUGLtibUZLESeYkS89t_B3dURtdBZw"
+  },
+  {
+    "link": "XVEkMhzHLTQ",
+    "song": "フュージョン",
+    "artist": {
+      "main": [
+        {
+          "name": "DECO*27"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "DI:Verse"
+        }
+      ]
+    },
+    "source": "ゲーム『プロセカ』『あんさんぶるスターズ！！』",
+    "bpm": 188,
+    "duration": "2m 31s",
+    "chart": {
+      "kantan": [
+        2,
+        194
+      ],
+      "futsuu": [
+        4,
+        378
+      ],
+      "muzukashii": [
+        7,
+        480
+      ],
+      "oni": [
+        7,
+        649
+      ]
+    },
+    "date": {
+      "release": "2025/03/29",
+      "update": null
+    },
+    "": "1B19t6BcTFUNB-n1k2L-BkYMJoEnIMDdF"
+  },
+  {
+    "link": "5qunwwaPvN8",
+    "song": "ブランディングができない",
+    "artist": {
+      "main": [
+        {
+          "name": "Chinozo"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "可不"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 203,
+    "duration": "2m 30s",
+    "chart": {
+      "kantan": [
+        4,
+        136
+      ],
+      "futsuu": [
+        4,
+        253
+      ],
+      "muzukashii": [
+        6,
+        380
+      ],
+      "oni": [
+        10,
+        786
+      ]
+    },
+    "date": {
+      "release": "2025/03/22",
+      "update": null
+    },
+    "": "1AFNzDgaQ_KsBQfSdVGc7FVIEEbpOvK1b"
+  },
+  {
+    "link": "kFcha2y7utY",
+    "song": "マザーデイズ",
+    "artist": {
+      "main": [
+        {
+          "name": "Chinozo"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "可不"
+        }
+      ]
+    },
+    "source": "漫画・ゲーム『まいまいまいごえん』",
+    "bpm": 128,
+    "duration": "1m 50s",
+    "chart": {
+      "kantan": [
+        1,
+        102
+      ],
+      "futsuu": [
+        3,
+        252
+      ],
+      "muzukashii": [
+        5,
+        304
+      ],
+      "oni": [
+        7,
+        476
+      ]
+    },
+    "date": {
+      "release": "2025/03/17",
+      "update": null
+    },
+    "": "1QXySr2Cc9uqOq8fXhfcwthKxlCrmoE3A"
+  },
+  {
+    "link": "19y8YTbvri8",
+    "song": "メズマライザー",
+    "artist": {
+      "main": [
+        {
+          "name": "サツキ"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        },
+        {
+          "name": "重音テト"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 185,
+    "duration": "2m 23s",
+    "chart": {
+      "kantan": [
+        2,
+        255
+      ],
+      "futsuu": [
+        4,
+        393
+      ],
+      "muzukashii": [
+        6,
+        680
+      ],
+      "oni": [
+        10,
+        941
+      ]
+    },
+    "date": {
+      "release": "2024/08/25",
+      "update": "2024/12/14"
+    },
+    "": "10i1MIP5xD3KwkqvAjfmR1YCeUdfoslBt"
   },
   {
     "link": "aT9C-znKxIw",
@@ -147,10 +705,22 @@
     "bpm": 180,
     "duration": "1m 41s",
     "chart": {
-      "kantan": [ 3, 155 ],
-      "futsuu": [ 4, 300 ],
-      "muzukashii": [ 7, 440 ],
-      "oni": [ 10, 540 ]
+      "kantan": [
+        3,
+        155
+      ],
+      "futsuu": [
+        4,
+        300
+      ],
+      "muzukashii": [
+        7,
+        440
+      ],
+      "oni": [
+        10,
+        540
+      ]
     },
     "date": {
       "release": "2025/03/26",
@@ -180,322 +750,28 @@
     "bpm": 172,
     "duration": "1m 47s",
     "chart": {
-      "kantan": [ 2, 150 ],
-      "futsuu": [ 4, 247 ],
-      "muzukashii": [ 6, 410 ],
-      "oni": [ 10, 575 ]
+      "kantan": [
+        2,
+        150
+      ],
+      "futsuu": [
+        4,
+        247
+      ],
+      "muzukashii": [
+        6,
+        410
+      ],
+      "oni": [
+        10,
+        575
+      ]
     },
     "date": {
       "release": "2025/03/26",
       "update": null
     },
     "": "1kmjTHNzgj4sth1CE1pgpO_b_xz2xZ4Ar"
-  },
-  {
-    "link": "C6TAZ8Elbao",
-    "song": "FUN!!",
-    "artist": {
-      "main": [
-        {
-          "name": "DECO*27"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "MORE MORE JUMP！"
-        }
-      ]
-    },
-    "source": "映画『劇場版 プロジェクトセカイ壊れたセカイと歌えないミク』",
-    "bpm": 186,
-    "duration": "1m 55s",
-    "chart": {
-      "kantan": [ 2, 263 ],
-      "futsuu": [ 5, 432 ],
-      "muzukashii": [ 6, 501 ],
-      "oni": [ 8, 561 ]
-    },
-    "date": {
-      "release": "2025/03/01",
-      "update": null
-    },
-    "": "1xjYszTZfhRpyx5iqmMFqp0_OnAOc35hh"
-  },
-  {
-    "link": "91O6VohptEo",
-    "song": "スマイル*シンフォニー",
-    "artist": {
-      "main": [
-        {
-          "name": "DECO*27"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "ワンダーランズ×ショウタイム"
-        }
-      ]
-    },
-    "source": "映画『劇場版 プロジェクトセカイ壊れたセカイと歌えないミク』",
-    "bpm": 122,
-    "duration": "1m 55s",
-    "chart": {
-      "kantan": [ 3, 231 ],
-      "futsuu": [ 4, 302 ],
-      "muzukashii": [ 7, 383 ],
-      "oni": [ 8, 426 ]
-    },
-    "date": {
-      "release": "2025/02/28",
-      "update": null
-    },
-    "": "1YsXm1QJwq7u3gRQ4SU94LuQ_rRUn8Byp"
-  },
-  {
-    "link": "t5U0rrj0dio",
-    "song": "ハローセカイ",
-    "artist": {
-      "main": [
-        {
-          "name": "DECO*27"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "初音ミク"
-        }
-      ]
-    },
-    "source": "映画『劇場版 プロジェクトセカイ壊れたセカイと歌えないミク』",
-    "bpm": "148 - 152",
-    "duration": "1m 59s",
-    "chart": {
-      "kantan": [ 3, 249 ],
-      "futsuu": [ 4, 378 ],
-      "muzukashii": [ 7, 498 ],
-      "oni": [ 9, 623 ]
-    },
-    "date": {
-      "release": "2025/02/28",
-      "update": null
-    },
-    "": "1af3mVxQ_Do-GnljcNcNupoq1SF8lRseL"
-  },
-  {
-    "link": "XVEkMhzHLTQ",
-    "song": "フュージョン",
-    "artist": {
-      "main": [
-        {
-          "name": "DECO*27"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "DI:Verse"
-        }
-      ]
-    },
-    "source": "ゲーム『プロセカ』『あんさんぶるスターズ！！』",
-    "bpm": 188,
-    "duration": "2m 31s",
-    "chart": {
-      "kantan": [ 2, 194 ],
-      "futsuu": [ 4, 378 ],
-      "muzukashii": [ 7, 480 ],
-      "oni": [ 7, 649 ]
-    },
-    "date": {
-      "release": "2025/03/29",
-      "update": null
-    },
-    "": "1B19t6BcTFUNB-n1k2L-BkYMJoEnIMDdF"
-  },
-  {
-    "link": "_gWn38pnmqI",
-    "song": "snooze (セカイ ver.)",
-    "artist": {
-      "main": [
-        {
-          "name": "wotaku"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "MORE MORE JUMP！"
-        },
-        {
-          "name": "鏡音レン"
-        }
-      ]
-    },
-    "source": "ゲーム『プロセカ』",
-    "bpm": 150,
-    "duration": "2m 3s",
-    "chart": {
-      "kantan": [ 3, 277 ],
-      "futsuu": [ 4, 387 ],
-      "muzukashii": [ 6, 426 ],
-      "oni": [ 10, 617 ]
-    },
-    "date": {
-      "release": "2025/02/06",
-      "update": null
-    },
-    "": "13iW8imtJKvS_2Fc88g362CCtq5CIRbPH"
-  },
-  {
-    "link": "d3Eqz55SxlA",
-    "song": "アンチユー",
-    "artist": {
-      "main": [
-        {
-          "name": "Chinozo"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "MORE MORE JUMP！"
-        },
-        {
-          "name": "巡音ルカ"
-        }
-      ]
-    },
-    "source": "ゲーム『プロセカ』",
-    "bpm": 129,
-    "duration": "1m 55s",
-    "chart": {
-      "kantan": [ 2, 179 ],
-      "futsuu": [ 3, 277 ],
-      "muzukashii": [ 5, 315 ],
-      "oni": [ 7, 359 ]
-    },
-    "date": {
-      "release": "2025/03/01",
-      "update": null
-    },
-    "": "1GKLM5tHABVdJ0E08gQPMHchi5_SLEGbg"
-  },
-  {
-    "link": "7yJRsFFRoQY",
-    "song": "アンテナ39",
-    "artist": {
-      "main": [
-        {
-          "name": "柊マグネタイト"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "初音ミク"
-        }
-      ]
-    },
-    "source": null,
-    "bpm": 147,
-    "duration": "2m 4s",
-    "chart": {
-      "kantan": [ 3, 396 ],
-      "futsuu": [ 5, 456 ],
-      "muzukashii": [ 7, 612 ],
-      "oni": [ 9, 784 ]
-    },
-    "date": {
-      "release": "2025/02/16",
-      "update": null
-    },
-    "": "1g33HiDiSa_eKkV2B76PTi4l9p9Dof5hV"
-  },
-  {
-    "link": "HKfzeTe2SCI",
-    "song": "シルバーコレクター",
-    "artist": {
-      "main": [
-        {
-          "name": "Shu"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "巡音ルカ"
-        }
-      ]
-    },
-    "source": null,
-    "bpm": 180,
-    "duration": "2m 8s",
-    "chart": {
-      "kantan": [ 3, 281 ],
-      "futsuu": [ 6, 396 ],
-      "muzukashii": [ 8, 462 ],
-      "oni": [ 10, 561 ]
-    },
-    "date": {
-      "release": "2025/02/16",
-      "update": null
-    },
-    "": "1biEvyz-GmAi5dHrMfba0WtNrzw4hLV2R"
-  },
-  {
-    "link": "5qunwwaPvN8",
-    "song": "ブランディングができない",
-    "artist": {
-      "main": [
-        {
-          "name": "Chinozo"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "可不"
-        }
-      ]
-    },
-    "source": null,
-    "bpm": 203,
-    "duration": "2m 30s",
-    "chart": {
-      "kantan": [ 4, 136 ],
-      "futsuu": [ 4, 253 ],
-      "muzukashii": [ 6, 380 ],
-      "oni": [ 10, 786 ]
-    },
-    "date": {
-      "release": "2025/03/22",
-      "update": null
-    },
-    "": "1AFNzDgaQ_KsBQfSdVGc7FVIEEbpOvK1b"
-  },
-  {
-    "link": "kFcha2y7utY",
-    "song": "マザーデイズ",
-    "artist": {
-      "main": [
-        {
-          "name": "Chinozo"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "可不"
-        }
-      ]
-    },
-    "source": "漫画・ゲーム『まいまいまいごえん』",
-    "bpm": 128,
-    "duration": "1m 50s",
-    "chart": {
-      "kantan": [ 1, 102 ],
-      "futsuu": [ 3, 252 ],
-      "muzukashii": [ 5, 304 ],
-      "oni": [ 7, 476 ]
-    },
-    "date": {
-      "release": "2025/03/17",
-      "update": null
-    },
-    "": "1QXySr2Cc9uqOq8fXhfcwthKxlCrmoE3A"
   },
   {
     "link": "EEk4JGzqoFg",
@@ -516,10 +792,22 @@
     "bpm": 144,
     "duration": "2m 2s",
     "chart": {
-      "kantan": [ 1, 168 ],
-      "futsuu": [ 3, 363 ],
-      "muzukashii": [ 6, 453 ],
-      "oni": [ 7, 509 ]
+      "kantan": [
+        1,
+        168
+      ],
+      "futsuu": [
+        3,
+        363
+      ],
+      "muzukashii": [
+        6,
+        453
+      ],
+      "oni": [
+        7,
+        509
+      ]
     },
     "date": {
       "release": "2025/03/15",
