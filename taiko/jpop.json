@@ -61,6 +61,45 @@
     "": "1nBS_OkIHJ2gfBhy55htl3MKv8PpKzFDq"
   },
   {
+    "song": "サクラカゼ",
+    "artist": {
+      "main": [
+        {
+          "name": "ハム"
+        }
+      ],
+      "vocal": [
+        "さくらみこ"
+      ]
+    },
+    "source": null,
+    "bpm": 168,
+    "duration": "3m 47s",
+    "chart": {
+      "kantan": [
+        4,
+        492
+      ],
+      "futsuu": [
+        6,
+        692
+      ],
+      "muzukashii": [
+        8,
+        718
+      ],
+      "oni": [
+        10,
+        1141
+      ]
+    },
+    "date": {
+      "release": "2025/01/14",
+      "update": null
+    },
+    "": "1q3b8s7cy8fe5ciyOUOXBckA_CR91vOXA"
+  },
+  {
     "link": "8iuLXODzL04",
     "song": "たぶん",
     "artist": {
@@ -89,6 +128,45 @@
       "update": null
     },
     "": "1dtZiyAfwQWpVuVymCXlkhgWkU1QEdzkR"
+  },
+  {
+    "song": "ベイビーダンス",
+    "artist": {
+      "main": [
+        {
+          "name": "DECO*27"
+        }
+      ],
+      "vocal": [
+        "さくらみこ"
+      ]
+    },
+    "source": null,
+    "bpm": 165,
+    "duration": "2m 1s",
+    "chart": {
+      "kantan": [
+        4,
+        254
+      ],
+      "futsuu": [
+        5,
+        354
+      ],
+      "muzukashii": [
+        6,
+        391
+      ],
+      "oni": [
+        10,
+        857
+      ]
+    },
+    "date": {
+      "release": "2025/01/24",
+      "update": null
+    },
+    "": "1bD74JsHUfw9pJAfd9nPB2CWATJodHjej"
   },
   {
     "link": "N_vYUNEktsA",
@@ -150,37 +228,6 @@
       "update": "2025/03/15"
     },
     "": "1se1qkfxkCs0oUULuR3DWWOz1Dz_6AZWq"
-  },
-  {
-    "link": "oZpYEEcvu5I",
-    "song": "晩餐歌",
-    "artist": {
-      "main": [
-        {
-          "name": "tuki."
-        }
-      ],
-      "vocal": [
-        {
-          "name": "tuki."
-        }
-      ]
-    },
-    "source": null,
-    "bpm": 103,
-    "duration": "3m 37s",
-    "chart": {
-      "kantan": [ 3, 380 ],
-      "futsuu": [ 4, 445 ],
-      "muzukashii": [ 5, 448 ],
-      "oni": [ 8, 701 ],
-      "ura": [ 10, 1265 ]
-    },
-    "date": {
-      "release": "2024/10/06",
-      "update": null
-    },
-    "": "17vO8P3waBmcNf2YwfTqEOj8_bTxQJypq"
   },
   {
     "link": "Ci_zad39Uhw",
@@ -282,5 +329,36 @@
       "update": null
     },
     "": "1WKqIROrvsTVgu8XrxT76MaNLpA0RoPdr"
+  },
+  {
+    "link": "oZpYEEcvu5I",
+    "song": "晩餐歌",
+    "artist": {
+      "main": [
+        {
+          "name": "tuki."
+        }
+      ],
+      "vocal": [
+        {
+          "name": "tuki."
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 103,
+    "duration": "3m 37s",
+    "chart": {
+      "kantan": [ 3, 380 ],
+      "futsuu": [ 4, 445 ],
+      "muzukashii": [ 5, 448 ],
+      "oni": [ 8, 701 ],
+      "ura": [ 10, 1265 ]
+    },
+    "date": {
+      "release": "2024/10/06",
+      "update": null
+    },
+    "": "17vO8P3waBmcNf2YwfTqEOj8_bTxQJypq"
   }
 ]
