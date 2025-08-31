@@ -1,5 +1,203 @@
 [
   {
+    "link": "Vi-1402wYtI",
+    "song": "ALIVE",
+    "artist": {
+      "main": [
+        {
+          "name": "ClariS"
+        }
+      ],
+      "vocal": [
+        "ClariS"
+      ]
+    },
+    "source": "リコリス・リコイル",
+    "bpm": "~174 - ~180",
+    "duration": "1m 30s",
+    "chart": {
+      "kantan": [
+        2,
+        182
+      ],
+      "futsuu": [
+        4,
+        268
+      ],
+      "muzukashii": [
+        7,
+        320
+      ],
+      "oni": [
+        8,
+        373
+      ]
+    },
+    "date": {
+      "release": "2025/02/06",
+      "update": null
+    },
+    "": "1HQgaQKcfMWR0NvB7kXM1yfBJy9OlHum7"
+  },
+  {
+    "link": "Xy6lZxoJ4ts",
+    "song": "Distortion!!",
+    "artist": {
+      "main": [
+        {
+          "name": "結束バンド"
+        }
+      ],
+      "vocal": [
+        "結束バンド"
+      ]
+    },
+    "source": "ぼっち・ざ・ろっく！",
+    "bpm": 176,
+    "duration": "1m 30s",
+    "chart": {
+      "kantan": [
+        3,
+        198
+      ],
+      "futsuu": [
+        5,
+        331
+      ],
+      "muzukashii": [
+        7,
+        390
+      ],
+      "oni": [
+        10,
+        597
+      ]
+    },
+    "date": {
+      "release": "2025/01/21",
+      "update": null
+    },
+    "": "1tPh-gSsO9fpCj_tchGDnZZCW8Y1SKTG4"
+  },
+  {
+    "link": "6nda3Rlay28",
+    "song": "Drops",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "坂本真綾"
+        }
+      ]
+    },
+    "source": "ある魔女が死ぬまで",
+    "bpm": 178,
+    "duration": "1m 32s",
+    "chart": {
+      "kantan": [
+        2,
+        149
+      ],
+      "futsuu": [
+        3,
+        272
+      ],
+      "muzukashii": [
+        5,
+        291
+      ],
+      "oni": [
+        7,
+        345
+      ]
+    },
+    "date": {
+      "release": "2025/04/06",
+      "update": null
+    },
+    "": "16fzVsHmkmnJp9nchkjw47mAth-a1WXG9"
+  },
+  {
+    "link": "4noCHoUpWFY",
+    "song": "LOVE or HATE?",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "前島麻由"
+        }
+      ]
+    },
+    "source": "悪役令嬢レベル99～私は裏ボスですが魔王ではありません～",
+    "bpm": 280,
+    "duration": "1m 29s",
+    "chart": {
+      "kantan": [
+        3,
+        147
+      ],
+      "futsuu": [
+        4,
+        215
+      ],
+      "muzukashii": [
+        7,
+        295
+      ],
+      "oni": [
+        10,
+        516
+      ]
+    },
+    "date": {
+      "release": "2024/12/15",
+      "update": "2025/01/18"
+    },
+    "": "1lJlX50tzyhNj2lKvR5f9Dov3Df0eV2Ww"
+  },
+  {
+    "link": "d62GvsOTaio",
+    "song": "Red Liberation",
+    "artist": {
+      "main": [
+        {
+          "name": "fripSide"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "fripSide"
+        }
+      ]
+    },
+    "source": "ひきこまり吸血姫の悶々",
+    "bpm": 135,
+    "duration": "1m 27s",
+    "chart": {
+      "kantan": [
+        4,
+        246
+      ],
+      "futsuu": [
+        5,
+        308
+      ],
+      "muzukashii": [
+        8,
+        403
+      ],
+      "oni": [
+        10,
+        543
+      ]
+    },
+    "date": {
+      "release": "2025/01/10",
+      "update": null
+    },
+    "": "1KD0Dmw8wkUplGww1mY0gYOxqOu10vfG2"
+  },
+  {
     "link": "qpi9YXaChHI",
     "song": "Sign",
     "artist": {
@@ -18,16 +216,70 @@
     "bpm": "148 - 178",
     "duration": "3m 51s",
     "chart": {
-      "kantan": [ 3, 434 ],
-      "futsuu": [ 4, 543 ],
-      "muzukashii": [ 4, 585 ],
-      "oni": [ 10, 1346 ]
+      "kantan": [
+        3,
+        434
+      ],
+      "futsuu": [
+        4,
+        543
+      ],
+      "muzukashii": [
+        4,
+        585
+      ],
+      "oni": [
+        10,
+        1346
+      ]
     },
     "date": {
       "release": "2024/11/15",
       "update": null
     },
     "": "1Nn3Qvpk7fhlV8Sb19DUNmHeu1BM9v89o"
+  },
+  {
+    "link": "FkLgDQUNl-I",
+    "song": "わっちゅあね？",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "来栖りん"
+        }
+      ]
+    },
+    "source": "歴史に残る悪女になるぞ 悪役令嬢になるほど王子の溺愛は加速するようです！",
+    "bpm": 260,
+    "duration": "1m 27s",
+    "chart": {
+      "kantan": [
+        2,
+        135
+      ],
+      "futsuu": [
+        4,
+        226
+      ],
+      "muzukashii": [
+        6,
+        300
+      ],
+      "oni": [
+        10,
+        405
+      ],
+      "ura": [
+        10,
+        454
+      ]
+    },
+    "date": {
+      "release": "2024/12/15",
+      "update": "2025/03/08"
+    },
+    "": "1K_JOsrV-kWZRFsXrPKFs67AgaQ98MH8Q"
   },
   {
     "link": "GQb3LxrQI4c",
@@ -44,10 +296,22 @@
     "bpm": 170,
     "duration": "1m 31s",
     "chart": {
-      "kantan": [ 2, 178 ],
-      "futsuu": [ 4, 347 ],
-      "muzukashii": [ 7, 409 ],
-      "oni": [ 10, 555 ]
+      "kantan": [
+        2,
+        178
+      ],
+      "futsuu": [
+        4,
+        347
+      ],
+      "muzukashii": [
+        7,
+        409
+      ],
+      "oni": [
+        10,
+        555
+      ]
     },
     "date": {
       "release": "2024/09/17",
@@ -71,16 +335,66 @@
     "bpm": 183,
     "duration": "1m 29s",
     "chart": {
-      "kantan": [ 3, 270 ],
-      "futsuu": [ 5, 386 ],
-      "muzukashii": [ 7, 480 ],
-      "oni": [ 10, 684 ]
+      "kantan": [
+        3,
+        270
+      ],
+      "futsuu": [
+        5,
+        386
+      ],
+      "muzukashii": [
+        7,
+        480
+      ],
+      "oni": [
+        10,
+        684
+      ]
     },
     "date": {
       "release": "2024/08/18",
       "update": "2024/12/14"
     },
     "": "1jPfYTF6dRTfZCq71i3hjjR35Ztuu_IqR"
+  },
+  {
+    "link": "3mOky2qe6gw",
+    "song": "ニッポン笑顔百景",
+    "artist": {
+      "main": [],
+      "vocal": [
+        {
+          "name": "ももいろクローバーZ"
+        }
+      ]
+    },
+    "source": "じょしらく",
+    "bpm": 160,
+    "duration": "1m 26s",
+    "chart": {
+      "kantan": [
+        3,
+        200
+      ],
+      "futsuu": [
+        5,
+        300
+      ],
+      "muzukashii": [
+        7,
+        400
+      ],
+      "oni": [
+        9,
+        500
+      ]
+    },
+    "date": {
+      "release": "2025/03/06",
+      "update": null
+    },
+    "": "1eR52hzoEtgpZ6on90UUtjBjnByj_QmA1"
   },
   {
     "link": "g_HHqi_dpwo",
@@ -97,46 +411,28 @@
     "bpm": 174,
     "duration": "1m 30s",
     "chart": {
-      "kantan": [ 2, 160 ],
-      "futsuu": [ 5, 269 ],
-      "muzukashii": [ 7, 293 ],
-      "oni": [ 10, 404 ]
+      "kantan": [
+        2,
+        160
+      ],
+      "futsuu": [
+        5,
+        269
+      ],
+      "muzukashii": [
+        7,
+        293
+      ],
+      "oni": [
+        10,
+        404
+      ]
     },
     "date": {
       "release": "2024/11/14",
       "update": null
     },
     "": "1rcHue4M6YfwUlUUDPyoiH6ckpWbmSOrW"
-  },
-  {
-    "link": "mUSVav9pKO4",
-    "song": "晴る",
-    "artist": {
-      "main": [
-        {
-          "name": "ヨルシカ"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "ヨルシカ"
-        }
-      ]
-    },
-    "source": "葬送のフリーレン",
-    "bpm": 204,
-    "duration": "4m 29s",
-    "chart": {
-      "kantan": [ 2, 370 ],
-      "futsuu": [ 3, 513 ],
-      "muzukashii": [ 5, 648 ],
-      "oni": [ 7, 686 ]
-    },
-    "date": {
-      "release": "2024/09/22",
-      "update": null
-    },
-    "": "1ZdTaZNFIHlFtXSSyh8MFwOKU5A1yfrd8"
   },
   {
     "link": "YjrSkBjDVEw",
@@ -168,68 +464,28 @@
     "bpm": 192,
     "duration": "3m 55s",
     "chart": {
-      "kantan": [ 2, 268 ],
-      "futsuu": [ 4, 353 ],
-      "muzukashii": [ 7, 655 ],
-      "oni": [ 9, 1171 ]
+      "kantan": [
+        2,
+        268
+      ],
+      "futsuu": [
+        4,
+        353
+      ],
+      "muzukashii": [
+        7,
+        655
+      ],
+      "oni": [
+        9,
+        1171
+      ]
     },
     "date": {
       "release": "2024/10/06",
       "update": null
     },
     "": "17UHzctkfI1O4GIrqCko2zd-JGmXlbf5M"
-  },
-  {
-    "link": "3mOky2qe6gw",
-    "song": "ニッポン笑顔百景",
-    "artist": {
-      "main": [],
-      "vocal": [
-        {
-          "name": "ももいろクローバーZ"
-        }
-      ]
-    },
-    "source": "じょしらく",
-    "bpm": 160,
-    "duration": "1m 26s",
-    "chart": {
-      "kantan": [ 3, 200 ],
-      "futsuu": [ 5, 300 ],
-      "muzukashii": [ 7, 400 ],
-      "oni": [ 9, 500 ]
-    },
-    "date": {
-      "release": "2025/03/06",
-      "update": null
-    },
-    "": "1eR52hzoEtgpZ6on90UUtjBjnByj_QmA1"
-  },
-  {
-    "link": "vGPIU5yX4fQ",
-    "song": "愛とか。",
-    "artist": {
-      "main": [],
-      "vocal": [
-        {
-          "name": "りりあ。"
-        }
-      ]
-    },
-    "source": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
-    "bpm": 100,
-    "duration": "1m 31s",
-    "chart": {
-      "kantan": [ 1, 70 ],
-      "futsuu": [ 4, 188 ],
-      "muzukashii": [ 5, 247 ],
-      "oni": [ 6, 326 ]
-    },
-    "date": {
-      "release": "2025/04/11",
-      "update": null
-    },
-    "": "1wC-rX9kTkfx9Ne4MfILkhYAxYmsCNCX_"
   },
   {
     "link": "jF97ERTceV8",
@@ -246,76 +502,28 @@
     "bpm": 141,
     "duration": "1m 29s",
     "chart": {
-      "kantan": [ 2, 124 ],
-      "futsuu": [ 3, 185 ],
-      "muzukashii": [ 7, 323 ],
-      "oni": [ 9, 455 ]
+      "kantan": [
+        2,
+        124
+      ],
+      "futsuu": [
+        3,
+        185
+      ],
+      "muzukashii": [
+        7,
+        323
+      ],
+      "oni": [
+        9,
+        455
+      ]
     },
     "date": {
       "release": "2025/01/14",
       "update": null
     },
     "": "12fpPZXGqphVdqTqBctH-1SNk_0esIV_1"
-  },
-  {
-    "link": "FM9AySPC9Ak",
-    "song": "眠れない",
-    "artist": {
-      "main": [
-        {
-          "name": "MIMiNARI"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "楠木ともり"
-        }
-      ]
-    },
-    "source": "ひきこまり吸血姫の悶々",
-    "bpm": 135,
-    "duration": "1m 27s",
-    "chart": {
-      "kantan": [ 1, 154 ],
-      "futsuu": [ 2, 211 ],
-      "muzukashii": [ 4, 289 ],
-      "oni": [ 7, 381 ]
-    },
-    "date": {
-      "release": "2025/01/10",
-      "update": null
-    },
-    "": "14fVFI29uLTp1dNSB6bIMxApcQDWzcwqw"
-  },
-  {
-    "link": "d62GvsOTaio",
-    "song": "Red Liberation",
-    "artist": {
-      "main": [
-        {
-          "name": "fripSide"
-        }
-      ],
-      "vocal": [
-        {
-          "name": "fripSide"
-        }
-      ]
-    },
-    "source": "ひきこまり吸血姫の悶々",
-    "bpm": 135,
-    "duration": "1m 27s",
-    "chart": {
-      "kantan": [ 4, 246 ],
-      "futsuu": [ 5, 308 ],
-      "muzukashii": [ 8, 403 ],
-      "oni": [ 10, 543 ]
-    },
-    "date": {
-      "release": "2025/01/10",
-      "update": null
-    },
-    "": "1KD0Dmw8wkUplGww1mY0gYOxqOu10vfG2"
   },
   {
     "link": "iUaZd98Dp3M",
@@ -336,10 +544,22 @@
     "bpm": 161,
     "duration": "1m 31s",
     "chart": {
-      "kantan": [ 2, 106 ],
-      "futsuu": [ 4, 206 ],
-      "muzukashii": [ 6, 324 ],
-      "oni": [ 8, 424 ]
+      "kantan": [
+        2,
+        106
+      ],
+      "futsuu": [
+        4,
+        206
+      ],
+      "muzukashii": [
+        6,
+        324
+      ],
+      "oni": [
+        8,
+        424
+      ]
     },
     "date": {
       "release": "2025/03/25",
@@ -348,82 +568,125 @@
     "": "1ryph2bohvDLScxtR64HAX_Bz-55jrVKf"
   },
   {
-    "link": "6nda3Rlay28",
-    "song": "Drops",
+    "link": "vGPIU5yX4fQ",
+    "song": "愛とか。",
     "artist": {
       "main": [],
       "vocal": [
         {
-          "name": "坂本真綾"
+          "name": "りりあ。"
         }
       ]
     },
-    "source": "ある魔女が死ぬまで",
-    "bpm": 178,
-    "duration": "1m 32s",
+    "source": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
+    "bpm": 100,
+    "duration": "1m 31s",
     "chart": {
-      "kantan": [ 2, 149 ],
-      "futsuu": [ 3, 272 ],
-      "muzukashii": [ 5, 291 ],
-      "oni": [ 7, 345 ]
+      "kantan": [
+        1,
+        70
+      ],
+      "futsuu": [
+        4,
+        188
+      ],
+      "muzukashii": [
+        5,
+        247
+      ],
+      "oni": [
+        6,
+        326
+      ]
     },
     "date": {
-      "release": "2025/04/06",
+      "release": "2025/04/11",
       "update": null
     },
-    "": "16fzVsHmkmnJp9nchkjw47mAth-a1WXG9"
+    "": "1wC-rX9kTkfx9Ne4MfILkhYAxYmsCNCX_"
   },
   {
-    "link": "4noCHoUpWFY",
-    "song": "LOVE or HATE?",
+    "link": "mUSVav9pKO4",
+    "song": "晴る",
     "artist": {
-      "main": [],
+      "main": [
+        {
+          "name": "ヨルシカ"
+        }
+      ],
       "vocal": [
         {
-          "name": "前島麻由"
+          "name": "ヨルシカ"
         }
       ]
     },
-    "source": "悪役令嬢レベル99～私は裏ボスですが魔王ではありません～",
-    "bpm": 280,
-    "duration": "1m 29s",
+    "source": "葬送のフリーレン",
+    "bpm": 204,
+    "duration": "4m 29s",
     "chart": {
-      "kantan": [ 3, 147 ],
-      "futsuu": [ 4, 215 ],
-      "muzukashii": [ 7, 295 ],
-      "oni": [ 10, 516 ]
+      "kantan": [
+        2,
+        370
+      ],
+      "futsuu": [
+        3,
+        513
+      ],
+      "muzukashii": [
+        5,
+        648
+      ],
+      "oni": [
+        7,
+        686
+      ]
     },
     "date": {
-      "release": "2024/12/15",
-      "update": "2025/01/18"
+      "release": "2024/09/22",
+      "update": null
     },
-    "": "1lJlX50tzyhNj2lKvR5f9Dov3Df0eV2Ww"
+    "": "1ZdTaZNFIHlFtXSSyh8MFwOKU5A1yfrd8"
   },
   {
-    "link": "FkLgDQUNl-I",
-    "song": "わっちゅあね？",
+    "link": "FM9AySPC9Ak",
+    "song": "眠れない",
     "artist": {
-      "main": [],
+      "main": [
+        {
+          "name": "MIMiNARI"
+        }
+      ],
       "vocal": [
         {
-          "name": "来栖りん"
+          "name": "楠木ともり"
         }
       ]
     },
-    "source": "歴史に残る悪女になるぞ 悪役令嬢になるほど王子の溺愛は加速するようです！",
-    "bpm": 260,
+    "source": "ひきこまり吸血姫の悶々",
+    "bpm": 135,
     "duration": "1m 27s",
     "chart": {
-      "kantan": [ 2, 135 ],
-      "futsuu": [ 4, 226 ],
-      "muzukashii": [ 6, 300 ],
-      "oni": [ 10, 405 ],
-      "ura": [ 10, 454 ]
+      "kantan": [
+        1,
+        154
+      ],
+      "futsuu": [
+        2,
+        211
+      ],
+      "muzukashii": [
+        4,
+        289
+      ],
+      "oni": [
+        7,
+        381
+      ]
     },
     "date": {
-      "release": "2024/12/15",
-      "update": "2025/03/08"
+      "release": "2025/01/10",
+      "update": null
     },
-    "": "1K_JOsrV-kWZRFsXrPKFs67AgaQ98MH8Q"
+    "": "14fVFI29uLTp1dNSB6bIMxApcQDWzcwqw"
   }
 ]
