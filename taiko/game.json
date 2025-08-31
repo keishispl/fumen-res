@@ -20,10 +20,22 @@
     "bpm": 173,
     "duration": "2m 03s",
     "chart": {
-      "kantan": [ 3, 348 ],
-      "futsuu": [ 6, 477 ],
-      "muzukashii": [ 8, 576 ],
-      "oni": [ 10, 637 ]
+      "kantan": [
+        3,
+        348
+      ],
+      "futsuu": [
+        6,
+        477
+      ],
+      "muzukashii": [
+        8,
+        576
+      ],
+      "oni": [
+        10,
+        637
+      ]
     },
     "date": {
       "release": "2024/11/23",
@@ -46,10 +58,22 @@
     "bpm": "50 - 200",
     "duration": "2m 39s",
     "chart": {
-      "kantan": [ 3, 350 ],
-      "futsuu": [ 5, 530 ],
-      "muzukashii": [ 8, 639 ],
-      "oni": [ 10, 1116 ]
+      "kantan": [
+        3,
+        350
+      ],
+      "futsuu": [
+        5,
+        530
+      ],
+      "muzukashii": [
+        8,
+        639
+      ],
+      "oni": [
+        10,
+        1116
+      ]
     },
     "date": {
       "release": "2024/08/24",
