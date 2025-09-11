@@ -129,6 +129,48 @@
     "": "13iW8imtJKvS_2Fc88g362CCtq5CIRbPH"
   },
   {
+    "link": "3iUgKH8c7p4",
+    "song": "いますぐ輪廻",
+    "artist": {
+      "main": [
+        {
+          "name": "なきそ"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 145,
+    "duration": "2m 2s",
+    "chart": {
+      "kantan": [
+        3,
+        165
+      ],
+      "futsuu": [
+        5,
+        313
+      ],
+      "muzukashii": [
+        7,
+        608
+      ],
+      "oni": [
+        8,
+        731
+      ]
+    },
+    "date": {
+      "release": "2025/09/12",
+      "update": null
+    },
+    "": "1MZW178v5GtnZ5gpWy1ACJNRV2t0U8yEI"
+  },
+  {
     "link": "2b1IexhKPz4",
     "song": "きゅうくらりん",
     "artist": {
