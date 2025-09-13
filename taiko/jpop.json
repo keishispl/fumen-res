@@ -211,6 +211,51 @@
     "": "1bD74JsHUfw9pJAfd9nPB2CWATJodHjej"
   },
   {
+    "link": "SBBtIJHGITA",
+    "song": "ロールケーキくるっくる～り！",
+    "artist": {
+      "main": [
+        {
+          "name": "Kijibato"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "ころねぽち"
+        },
+        {
+          "name": "ななひら"
+        }
+      ]
+    },
+    "source": null,
+    "bpm": 222,
+    "duration": "2m 53s",
+    "chart": {
+      "kantan": [
+        2,
+        233
+      ],
+      "futsuu": [
+        4,
+        466
+      ],
+      "muzukashii": [
+        8,
+        865
+      ],
+      "oni": [
+        10,
+        1407
+      ]
+    },
+    "date": {
+      "release": "2025/09/13",
+      "update": null
+    },
+    "": "14TwHalSoJ0_3dd4RF9EX_3R6CqKupSEM"
+  },
+  {
     "link": "K4xLi8IF1FM",
     "song": "可愛くてごめん",
     "artist": {
