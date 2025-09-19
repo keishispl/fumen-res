@@ -31,7 +31,7 @@
                     "type": "expert",
                     "data": {
                          "level": 26,
-                         "combo": 1043,
+                         "combo": 1042,
                          "id": "16"
                     }
                },
@@ -39,14 +39,14 @@
                     "type": "master",
                     "data": {
                          "level": 30,
-                         "combo": 1086,
+                         "combo": 1084,
                          "id": "17"
                     }
                },
                {
                     "type": "append",
                     "data": {
-                         "level": 30,
+                         "level": 28,
                          "combo": 2030,
                          "id": "18"
                     }
