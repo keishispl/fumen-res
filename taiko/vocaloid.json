@@ -101,7 +101,7 @@
         }
       ]
     },
-    "source": "ゲーム『プロセカ』",
+    "source": "プロジェクトセカイ",
     "bpm": 150,
     "duration": "2m 3s",
     "chart": {
@@ -275,7 +275,7 @@
         }
       ]
     },
-    "source": "ゲーム『プロセカ』",
+    "source": "プロジェクトセカイ",
     "bpm": 129,
     "duration": "1m 55s",
     "chart": {
@@ -569,7 +569,7 @@
         }
       ]
     },
-    "source": "ゲーム『プロセカ』『あんさんぶるスターズ！！』",
+    "source": "プロジェクトセカイ　と　あんさんぶるスターズ！！",
     "bpm": 188,
     "duration": "2m 31s",
     "chart": {
@@ -653,7 +653,7 @@
         }
       ]
     },
-    "source": "漫画・ゲーム『まいまいまいごえん』",
+    "source": "まいまいまいごえん",
     "bpm": 128,
     "duration": "1m 50s",
     "chart": {
@@ -814,6 +814,48 @@
       "update": null
     },
     "": "1kmjTHNzgj4sth1CE1pgpO_b_xz2xZ4Ar"
+  },
+  {
+    "link": "jaSJ4t2ITW8",
+    "song": "化けの花",
+    "artist": {
+      "main": [
+        {
+          "name": "なきそ"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        }
+      ]
+    },
+    "source": "プロジェクトセカイ",
+    "bpm": 180,
+    "duration": "2m",
+    "chart": {
+      "kantan": [
+        2,
+        180
+      ],
+      "futsuu": [
+        4,
+        456
+      ],
+      "muzukashii": [
+        8,
+        680
+      ],
+      "oni": [
+        10,
+        926
+      ]
+    },
+    "date": {
+      "release": "2025/09/27",
+      "update": null
+    },
+    "": "1tvkduwyp8d5EP9i_5B0SaK1VKCzgCyd4"
   },
   {
     "link": "EEk4JGzqoFg",
