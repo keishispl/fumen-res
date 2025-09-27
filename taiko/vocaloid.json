@@ -129,6 +129,57 @@
     "": "13iW8imtJKvS_2Fc88g362CCtq5CIRbPH"
   },
   {
+    "link": "4_OZvsjqJGY",
+    "song": "ありのままのストーリーを",
+    "artist": {
+      "main": [
+        {
+          "name": "のぼる↑"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "初音ミク"
+        },
+        {
+          "name": "夏色花梨"
+        },
+        {
+          "name": "音街ウナ"
+        },
+        {
+          "name": "GUMI"
+        }
+      ]
+    },
+    "source": "プロジェクトセカイ",
+    "bpm": 181,
+    "duration": "1m 46s",
+    "chart": {
+      "kantan": [
+        1,
+        161
+      ],
+      "futsuu": [
+        2,
+        321
+      ],
+      "muzukashii": [
+        7,
+        573
+      ],
+      "oni": [
+        10,
+        853
+      ]
+    },
+    "date": {
+      "release": "2025/09/27",
+      "update": null
+    },
+    "": "1IqcLZSD_m7QM3kiJklKI-rUL0LfJ20fS"
+  },
+  {
     "link": "3iUgKH8c7p4",
     "song": "いますぐ輪廻",
     "artist": {
@@ -852,7 +903,7 @@
       ]
     },
     "date": {
-      "release": "2025/09/27",
+      "release": "2025/09/26",
       "update": null
     },
     "": "1tvkduwyp8d5EP9i_5B0SaK1VKCzgCyd4"
