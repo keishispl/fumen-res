@@ -1059,7 +1059,7 @@
     "": "1qJY-nNIdGJrD0sKZKirEYN-2kVP1V0cv"
   },
   {
-    "link": "mUSVav9pKO4",
+    "link": "iqsnJJK8GA4",
     "song": "晴る",
     "artist": {
       "main": [
@@ -1075,28 +1075,28 @@
     },
     "source": "葬送のフリーレン",
     "bpm": 204,
-    "duration": "4m 29s",
+    "duration": "1m 31s",
     "chart": {
       "kantan": [
         2,
-        370
+        167
       ],
       "futsuu": [
-        3,
-        513
+        4,
+        284
       ],
       "muzukashii": [
         5,
-        648
+        362
       ],
       "oni": [
         7,
-        686
+        464
       ]
     },
     "date": {
       "release": "2024/09/22",
-      "update": null
+      "update": "2025/10/09"
     },
     "": "1ZdTaZNFIHlFtXSSyh8MFwOKU5A1yfrd8"
   },
