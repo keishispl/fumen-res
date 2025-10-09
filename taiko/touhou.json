@@ -60,29 +60,29 @@
       ]
     },
     "source": "東方地霊殿　～ Subterranean Animism",
-    "bpm": "172 - 181",
-    "duration": "1m 58s",
+    "bpm": "181",
+    "duration": "2m 9s",
     "chart": {
       "kantan": [
-        4,
-        303
+        3,
+        224
       ],
       "futsuu": [
-        5,
-        404
+        4,
+        433
       ],
       "muzukashii": [
         7,
-        505
+        668
       ],
       "oni": [
-        10,
-        707
+        9,
+        812
       ]
     },
     "date": {
       "release": "2024/10/15",
-      "update": "2025/01/30"
+      "update": "2025/10/10"
     },
     "": "18UaKhwPGxNCVHJ-xgi3xKaYlEDvTHFwM"
   },
