@@ -101,5 +101,53 @@
           ],
           "image": "25a052a706df4eeab0442fad1edc614f/8f55176934f8deafe0998637e4be4a804649ec02",
           "youtube": "klv4FU8WTfk"
+     },
+     {
+          "id": "003-prim",
+          "name": "†渚の小悪魔ラヴリィ～レイディオ†",
+          "yori": "jubeat saucer",
+          "composer": [
+               "T.Kakuta a.k.a. L.E.D.",
+               "mitsu"
+          ],
+          "vocal": [
+               "夏色ビキニのPrim"
+          ],
+          "info": {
+               "bpm": "190",
+               "duration": "1:52"
+          },
+          "difficulties": [
+               {
+                    "type": "easy",
+                    "data": null
+               },
+               {
+                    "type": "normal",
+                    "data": null
+               },
+               {
+                    "type": "hard",
+                    "data": null
+               },
+               {
+                    "type": "expert",
+                    "data": {
+                         "level": 31,
+                         "combo": 2629,
+                         "id": "37083458ea444455b5e2ccd9970ebe55"
+                    }
+               },
+               {
+                    "type": "master",
+                    "data": null
+               },
+               {
+                    "type": "append",
+                    "data": null
+               }
+          ],
+          "image": "37083458ea444455b5e2ccd9970ebe55/8e9f290a8783a9d0b5349cb4a8ec35b2cc0550d6",
+          "youtube": "LK5i9ZP8pYk"
      }
 ]
