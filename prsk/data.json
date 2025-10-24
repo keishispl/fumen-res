@@ -133,14 +133,18 @@
                {
                     "type": "expert",
                     "data": {
-                         "level": 31,
-                         "combo": 2629,
+                         "level": 27,
+                         "combo": 1004,
                          "id": "37083458ea444455b5e2ccd9970ebe55"
                     }
                },
                {
                     "type": "master",
-                    "data": null
+                    "data": {
+                         "level": 31,
+                         "combo": 1079,
+                         "id": "eec919dd3fb14edbb660266b28a64645"
+                    }
                },
                {
                     "type": "append",
