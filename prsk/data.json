@@ -148,7 +148,11 @@
                },
                {
                     "type": "append",
-                    "data": null
+                    "data": {
+                         "level": 29,
+                         "combo": 1760,
+                         "id": "f92f1d1622fc44f2a700069d5f5e3819"
+                    }
                }
           ],
           "image": "37083458ea444455b5e2ccd9970ebe55/8e9f290a8783a9d0b5349cb4a8ec35b2cc0550d6",
