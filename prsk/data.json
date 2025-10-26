@@ -157,5 +157,53 @@
           ],
           "image": "37083458ea444455b5e2ccd9970ebe55/8e9f290a8783a9d0b5349cb4a8ec35b2cc0550d6",
           "youtube": "LK5i9ZP8pYk"
+     },
+     {
+          "id": "004-tjlb",
+          "name": "Tak a ja lubię",
+          "yori": "TVアニメ『拡張少女系トライナリー』",
+          "composer": [
+               "姉田ウ夢ヤ",
+               "土屋暁"
+          ],
+          "vocal": [
+               "ガブリエラ・ロタルィンスカ (CV: 八木侑紀)"
+          ],
+          "info": {
+               "bpm": "176",
+               "duration": "1:55"
+          },
+          "difficulties": [
+               {
+                    "type": "easy",
+                    "data": null
+               },
+               {
+                    "type": "normal",
+                    "data": null
+               },
+               {
+                    "type": "hard",
+                    "data": null
+               },
+               {
+                    "type": "expert",
+                    "data": {
+                         "level": 27,
+                         "combo": 938,
+                         "id": "f0d31e011fae4a02b5b76bf2df33fee8"
+                    }
+               },
+               {
+                    "type": "master",
+                    "data": null
+               },
+               {
+                    "type": "append",
+                    "data": null
+               }
+          ],
+          "image": "f0d31e011fae4a02b5b76bf2df33fee8/12d728282bab9738fb68a3e5cfbf88e6fc4e2bdb",
+          "youtube": "fwA_0N5NyEY"
      }
 ]
