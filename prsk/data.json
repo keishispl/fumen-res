@@ -240,7 +240,7 @@
                {
                     "type": "expert",
                     "data": {
-                         "level": 27,
+                         "level": 26,
                          "combo": 800,
                          "id": "33545b12122b41d98af9d7c75ac2bb7d"
                     }
@@ -257,5 +257,53 @@
           "image": "33545b12122b41d98af9d7c75ac2bb7d/d17c7ee6e98f5ceb2e4b398af2a755f53ba76e31",
           "audio": "33545b12122b41d98af9d7c75ac2bb7d/15c193882d314353b30efeecd1b6fd4a881ee3b1",
           "youtube": "rpzh1iAb8fI"
+     },
+     {
+          "id": "006-jump",
+          "name": "Jump!! Jump!! Jump!!",
+          "yori": "オンゲキ",
+          "composer": [
+               "宮崎誠"
+          ],
+          "vocal": [
+               "オンゲキシューターズ"
+          ],
+          "info": {
+               "bpm": "183",
+               "duration": "2:28"
+          },
+          "difficulties": [
+               {
+                    "type": "easy",
+                    "data": null
+               },
+               {
+                    "type": "normal",
+                    "data": null
+               },
+               {
+                    "type": "hard",
+                    "data": null
+               },
+               {
+                    "type": "expert",
+                    "data": {
+                         "level": 27,
+                         "combo": 1221,
+                         "id": "9d9c01839ec048ab80098c004326a572"
+                    }
+               },
+               {
+                    "type": "master",
+                    "data": null
+               },
+               {
+                    "type": "append",
+                    "data": null
+               }
+          ],
+          "image": "9d9c01839ec048ab80098c004326a572/f48464d9cac7272dce27320bef93fe3a02bc7fdb",
+          "audio": "9d9c01839ec048ab80098c004326a572/deca036811d50a630c90830e290cf50ded20afa3",
+          "youtube": "0wa801yanjg"
      }
 ]
