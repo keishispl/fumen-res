@@ -690,6 +690,48 @@
     "": "1AFNzDgaQ_KsBQfSdVGc7FVIEEbpOvK1b"
   },
   {
+    "link": "y10b0mmtGNY",
+    "song": "ベビーデーズ",
+    "artist": {
+      "main": [
+        {
+          "name": "Chinozo"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "FloweR"
+        }
+      ]
+    },
+    "source": "まいまいまいごえん",
+    "bpm": 145,
+    "duration": "2m 2s",
+    "chart": {
+      "kantan": [
+        2,
+        125
+      ],
+      "futsuu": [
+        5,
+        376
+      ],
+      "muzukashii": [
+        7,
+        510
+      ],
+      "oni": [
+        9,
+        630
+      ]
+    },
+    "date": {
+      "release": "2025/11/14",
+      "update": null
+    },
+    "": "1USAy6r-zV9IpGNdnqHU4m9eHURN1z_9A"
+  },
+  {
     "link": "kFcha2y7utY",
     "song": "マザーデイズ",
     "artist": {
