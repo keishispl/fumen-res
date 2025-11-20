@@ -396,6 +396,42 @@
     "": "1g33HiDiSa_eKkV2B76PTi4l9p9Dof5hV"
   },
   {
+    "link": "g_COlOBAV7I",
+    "song": "アワーオース",
+    "artist": {
+      "main": [
+        {
+          "name": "Chinozo"
+        }
+      ],
+      "vocal": [
+        {
+          "name": "FloweR"
+        },
+        {
+          "name": "可不"
+        }
+      ]
+    },
+    "source": "まいまいまいごえん",
+    "bpm": 184,
+    "duration": "2m",
+    "chart": {
+      "kantan": null,
+      "futsuu": null,
+      "muzukashii": null,
+      "oni": [
+        9,
+        673
+      ]
+    },
+    "date": {
+      "release": "2025/11/21",
+      "update": null
+    },
+    "": "1mVmBpzAgRuY3c8ts9Qg43mJugGx3kEJe"
+  },
+  {
     "link": "HKfzeTe2SCI",
     "song": "シルバーコレクター",
     "artist": {
