@@ -305,5 +305,51 @@
           "image": "9d9c01839ec048ab80098c004326a572/f48464d9cac7272dce27320bef93fe3a02bc7fdb",
           "audio": "9d9c01839ec048ab80098c004326a572/deca036811d50a630c90830e290cf50ded20afa3",
           "youtube": "0wa801yanjg"
+     },
+     {
+          "id": "007-kkrb",
+          "name": "狂喜蘭舞",
+          "yori": "Phigros",
+          "composer": [
+               "LeaF"
+          ],
+          "vocal": null,
+          "info": {
+               "bpm": "183",
+               "duration": "2:28"
+          },
+          "difficulties": [
+               {
+                    "type": "easy",
+                    "data": null
+               },
+               {
+                    "type": "normal",
+                    "data": null
+               },
+               {
+                    "type": "hard",
+                    "data": null
+               },
+               {
+                    "type": "expert",
+                    "data": null
+               },
+               {
+                    "type": "master",
+                    "data": null
+               },
+               {
+                    "type": "append",
+                    "data": {
+                         "level": 38,
+                         "combo": 3325,
+                         "id": "df66a8935eaa4f6a9191110a2fc2daa8"
+                    }
+               }
+          ],
+          "image": "df66a8935eaa4f6a9191110a2fc2daa8/743e0246a9df3b374d987bbdd3b48af279ec0cfd",
+          "audio": "df66a8935eaa4f6a9191110a2fc2daa8/d81ebb95225d766bd654d5ed0611c7764500bbfa",
+          "youtube": "k5i3psGUzWk"
      }
 ]
